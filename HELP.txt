@@ -1,5 +1,4 @@
 ***RedBot Help/Commands***
-RedBot is used for interfacing with the Comradeship and Honarary Red Spreadsheets an polling.
 Note that Caps will not affect the command, but may affect data included (e.g. <username>).
 
 **Commands**
@@ -28,7 +27,7 @@ Note that Caps will not affect the command, but may affect data included (e.g. <
 
 *$honupdate <username> <requirement, **no spaces**>*
     - Adds an update request for <username>'s Honarary Red application <requirement> in the spreadsheet
-    - Note **this command is only available in #premier-chat**
+    - Note **this command is only available in #honorary-red-logging**
     - This does not change the actual data, just tells personell to. In most cases this should happen within 12 hours
 
 *$poll <question>*
@@ -36,6 +35,10 @@ Note that Caps will not affect the command, but may affect data included (e.g. <
 
 *$poll {<question>} [<option A>} [<option B>}  [<option C>}...*
     - Adds letter emotes to the message for each option, to a maximum of 20 option
+
+*$dice <sides>*
+    - Generates a random number between 1 and <sides>, inclusively 
+    - There is no maximum amount for sides as far as I know
 
 *$Help*
     - Outputs this message
