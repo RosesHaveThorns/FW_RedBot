@@ -506,7 +506,7 @@ try:
 	## ---------------------------------------------------------------------------------------------------------
 
 	# Start as Discord Bot
-	client.run('NTY2MTY1MTg4OTg3MDYwMjQ0.XLBbzg.ZwaBplOaVqBqwEidaV6DJRv4uTw')
+	client.run('_______PUT DISCORD BOT TOKEN HERE_____')
 
 except Exception as e:
 	log("ERROR - EXCEPTION CAUGHT:" + e)
