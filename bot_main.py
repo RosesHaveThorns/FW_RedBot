@@ -90,6 +90,8 @@ async def on_message(msg):
 		setup_gSpread()
 		lastLoginTime = time.time()
 	
+	await client.process_commands(msg)
+	
 if __name__ == '__main__':
 	exts = find_extensions("./cogs")
 	
