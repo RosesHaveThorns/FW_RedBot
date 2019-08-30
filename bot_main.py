@@ -56,17 +56,6 @@ logging.basicConfig(level=logging.INFO)
 client = commands.Bot(command_prefix = '$')
 lastLoginTime = time.time()
 
-# Get Help File
-f = open('HELP.info', 'r+')
-helpContents = f.read()
-
-if helpContents  == "":
-	log("No Help File Found. Created Empty One")
-
-f.close()
-
-logs.log("Loaded help file")
-
 # Discord functions:
 
 @client.event
