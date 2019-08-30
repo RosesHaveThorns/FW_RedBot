@@ -40,10 +40,6 @@ def setup_gSpread():
 		gSheet = gspread.authorize(credentials)
 
 		# Get required worksheets
-		honSheetMain = gSheet.open("Honarary Red Tracking").worksheet("BOT_DATA")
-		honRegisterSheetMain = gSheet.open("Honarary Red Tracking").worksheet("Registration")
-		honSubmissionSheetMain = gSheet.open("Honarary Red Tracking").worksheet("Submissions")
-
 		comradeSheetMain = gSheet.open("DSRR Comradeship System").worksheet("BOT_DATA")
 		comradeEventsSheetMain = gSheet.open("DSRR Comradeship System").worksheet("Event Submissions")
 		
@@ -117,7 +113,7 @@ if __name__ == '__main__':
 		# pass each cog the logger
 		try:
 			cog = client.get_cog(extension)
-			cog.set_logger(logs)
+			cog.set_refs(logs, gSheet)
 
 			for i in cog.get_commands():
 				logs.log(i.name)
