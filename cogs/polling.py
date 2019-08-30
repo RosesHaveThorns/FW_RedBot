@@ -5,7 +5,7 @@ from discord.ext import commands
 
 class Polling:
 	
-	emojiLetters = [
+	self.emojiLetters = [
 		"\N{REGIONAL INDICATOR SYMBOL LETTER A}",
 		"\N{REGIONAL INDICATOR SYMBOL LETTER B}",
 		"\N{REGIONAL INDICATOR SYMBOL LETTER C}",
@@ -33,14 +33,18 @@ class Polling:
 		"\N{REGIONAL INDICATOR SYMBOL LETTER Y}",
 		"\N{REGIONAL INDICATOR SYMBOL LETTER Z}"]
 	
+	
 	def __init__(self, client):
 		self.client = client
+	
+	def set_logger(self, logger):
+		self.logs = logger
 		
 # COMMAND: $poll <question> OR $poll {<question>} [<itemA>] [<itemB>] [<itemC>] ...
 
 	@commands.command(pass_context = True)
-	async def poll(context, *args):
-			# log(sentBy + ": '$poll' command called " + str((time.time() - lastLoginTime)/60) + " minutes after last gsheets login")
+	async def poll(self, context, *args):
+			self.logs.log("'$poll' command called " + str((time.time() - lastLoginTime)/60) + " minutes after last gsheets login")
 			
 			messageContent = context.message.clean_content
 			
@@ -83,10 +87,10 @@ class Polling:
 						if not option[i] == "":
 							if len(option) > 20:
 								await self.client.say("Maximum of 20 options")
-								# log("Command Failed, Too many Options")
+								self.logs.log("Command Failed, Too many Options")
 								return
 							elif not i == len(option) - 1:
-								pollMessage = pollMessage + "\n\n" + emojiLetters[i] + " " + choice
+								pollMessage = pollMessage + "\n\n" + self.emojiLetters[i] + " " + choice
 						i += 1
 
 					e = discord.Embed(title="**" + title + "**",
@@ -98,11 +102,11 @@ class Polling:
 					for choice in option:
 						if not i == len(option) - 1 and not option[i] == "":
 							final_options.append(choice)
-							await pollMessage.add_reaction(emojiLetters[i])
+							await pollMessage.add_reaction(self.emojiLetters[i])
 						i += 1
-					# log("Command Succesfull")
-				except KeyError:
-					# log("Command Failed, Incorrect Format")
+					self.logs.log("Command Succesfull")
+				except Exception as error:
+					self.logs.log("Command Failed, Incorrect Format [{error}]")
 					await self.client.say("Please make sure you are using the format **'$poll {<question>} [<itemA>] [<itemB>] [<itemC>]'**")
 def setup(client):
     client.add_cog(Polling(client))
