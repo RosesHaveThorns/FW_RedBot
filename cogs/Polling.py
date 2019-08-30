@@ -37,7 +37,7 @@ class Polling(commands.Cog):
 	def __init__(self, client):
 		self.client = client
 	
-	def set_logger(self, logger):
+	def set_refs(self, logger, sheets):
 		self.logs = logger
 		
 # COMMAND: $poll <question> OR $poll {<question>} [<itemA>] [<itemB>] [<itemC>] ...
