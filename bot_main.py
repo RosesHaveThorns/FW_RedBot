@@ -65,7 +65,7 @@ client = commands.Bot(command_prefix = '$')
 lastLoginTime = time.time()
 
 # Get Help File
-f = open('HELP.txt', 'r+')
+f = open('HELP.info', 'r+')
 helpContents = f.read()
 
 if readMe_contents == "":
