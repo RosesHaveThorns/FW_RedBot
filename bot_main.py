@@ -20,22 +20,16 @@ credentials = ServiceAccountCredentials.from_json_keyfile_name('client_secret.js
 
 # global variables
 gsheet = ""
-honSheetMain = ""
 comradeSheetMain = ""
 comradeEventsSheetMain = ""
-honRegisterSheetMain = ""
-honSubmissionSheetMain = ""
 
 # Non-Discord Functions
 
 def setup_gSpread():
 	try:
 		global gSheet
-		global honSheetMain
 		global comradeSheetMain
 		global comradeEventsSheetMain
-		global honRegisterSheetMain
-		global honSubmissionSheetMain
 
 		gSheet = gspread.authorize(credentials)
 
