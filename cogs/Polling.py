@@ -3,9 +3,9 @@
 import discord
 from discord.ext import commands
 
-class Polling:
+class Polling(commands.Cog):
 	
-	self.emojiLetters = [
+	emojiLetters = [
 		"\N{REGIONAL INDICATOR SYMBOL LETTER A}",
 		"\N{REGIONAL INDICATOR SYMBOL LETTER B}",
 		"\N{REGIONAL INDICATOR SYMBOL LETTER C}",
@@ -43,10 +43,12 @@ class Polling:
 # COMMAND: $poll <question> OR $poll {<question>} [<itemA>] [<itemB>] [<itemC>] ...
 
 	@commands.command(pass_context = True)
-	async def poll(self, context, *args):
-			self.logs.log("'$poll' command called " + str((time.time() - lastLoginTime)/60) + " minutes after last gsheets login")
+	async def poll(self, context):
+			self.logs.log("'$poll' command called")
+
+			msg = context.message
 			
-			messageContent = context.message.clean_content
+			messageContent = msg.clean_content
 			
 			if messageContent.find("{") == -1:
 				await context.message.add_reaction(u"\U0001F44D")
@@ -86,7 +88,7 @@ class Polling:
 					for choice in option:
 						if not option[i] == "":
 							if len(option) > 20:
-								await self.client.say("Maximum of 20 options")
+								await msg.channel.send("Maximum of 20 options")
 								self.logs.log("Command Failed, Too many Options")
 								return
 							elif not i == len(option) - 1:
@@ -96,7 +98,7 @@ class Polling:
 					e = discord.Embed(title="**" + title + "**",
 							description=pollMessage,
 									  colour=0x83bae3)
-					pollMessage = await self.client.say(embed=e)
+					pollMessage = await msg.channel.send(embed=e)
 					i = 0
 					final_options = []
 					for choice in option:
@@ -107,6 +109,6 @@ class Polling:
 					self.logs.log("Command Succesfull")
 				except Exception as error:
 					self.logs.log("Command Failed, Incorrect Format [{error}]")
-					await self.client.say("Please make sure you are using the format **'$poll {<question>} [<itemA>] [<itemB>] [<itemC>]'**")
+					await msg.channel.send("Please make sure you are using the format **'$poll {<question>} [<itemA>] [<itemB>] [<itemC>]'**")
 def setup(client):
     client.add_cog(Polling(client))
