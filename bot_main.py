@@ -1,9 +1,13 @@
 import os
 import discord
-from logging import logger
+from logger import logger
+import logging
+import time
+import gspread
 from discord.ext import commands
+from oauth2client.service_account import ServiceAccountCredentials
 
-TOKEN = '__PUT DISCORD BOT TOKEN HERE__'
+TOKEN = '___ ADD BOT TOKEN HERE __'
 
 logs = logger()
 logs.log("---------------------- Starting Up ----------------------")
@@ -42,8 +46,11 @@ def setup_gSpread():
 
 		comradeSheetMain = gSheet.open("DSRR Comradeship System").worksheet("BOT_DATA")
 		comradeEventsSheetMain = gSheet.open("DSRR Comradeship System").worksheet("Event Submissions")
+		
+		logs.log("Loaded gSpread")
+
 	except Exception as error:
-		logs.log("ERROR: Couldnt load gSpread [{error}]")
+		logs.log("ERROR: Couldnt load gSpread [{}]".format(error))
 
 def find_extensions(folder):
 	cogs = []
@@ -61,6 +68,7 @@ def find_extensions(folder):
 setup_gSpread()
 
 # Discord setup
+logging.basicConfig(level=logging.INFO)
 client = commands.Bot(command_prefix = '$')
 lastLoginTime = time.time()
 
@@ -68,10 +76,12 @@ lastLoginTime = time.time()
 f = open('HELP.info', 'r+')
 helpContents = f.read()
 
-if readMe_contents == "":
+if helpContents  == "":
 	log("No Help File Found. Created Empty One")
 
 f.close()
+
+logs.log("Loaded help file")
 
 # Discord functions:
 
@@ -89,26 +99,31 @@ async def on_message(msg):
 		logs.log("Avoiding timeout; Logging back in to gsheets")
 		setup_gSpread()
 		lastLoginTime = time.time()
-	
 	await client.process_commands(msg)
+	
 	
 if __name__ == '__main__':
 	exts = find_extensions("./cogs")
 	
-	for extension in extensions:
+	for extension in exts :
 		
 		# load each extension
 		try:
 			client.load_extension('cogs.' + extension)
-			logs.log('DEBUG: Loaded {extension} cog.')
+			logs.log('Loaded {} cog'.format(extension))
 		except Exception as error:
-			logs.log("ERROR: Extension {extension} could not be loaded. [{error}]")
+			logs.log("ERROR: Extension {} could not be loaded. [{}]".format(extension, error))
 		
-		# give each cog the logger
+		# pass each cog the logger
 		try:
-			client.get_cog(extension).set_logger(logs)
+			cog = client.get_cog(extension)
+			cog.set_logger(logs)
+
+			for i in cog.get_commands():
+				logs.log(i.name)
+		
 		except Exception as error:
-			logs.log("ERROR: Could not give the extension {extension} the logger. [{error}]")
+			logs.log("ERROR: Could not pass the extension {} the logger. [{}]".format(extension, error))
 			
 	client.run(TOKEN)
 	
