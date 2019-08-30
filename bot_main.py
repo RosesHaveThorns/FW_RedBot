@@ -96,11 +96,19 @@ if __name__ == '__main__':
 	exts = find_extensions("./cogs")
 	
 	for extension in extensions:
+		
+		# load each extension
 		try:
-			bot.load_extension('cogs.' + extension)
+			client.load_extension('cogs.' + extension)
 			logs.log('DEBUG: Loaded {extension} cog.')
 		except Exception as error:
 			logs.log("ERROR: Extension {extension} could not be loaded. [{error}]")
+		
+		# give each cog the logger
+		try:
+			client.get_cog(extension).set_logger(logs)
+		except Exception as error:
+			logs.log("ERROR: Could not give the extension {extension} the logger. [{error}]")
 			
 	client.run(TOKEN)
 	
