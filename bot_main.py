@@ -20,8 +20,6 @@ credentials = ServiceAccountCredentials.from_json_keyfile_name('client_secret.js
 
 # global variables
 gsheet = ""
-comradeSheetMain = ""
-comradeEventsSheetMain = ""
 
 # Non-Discord Functions
 
@@ -32,10 +30,6 @@ def setup_gSpread():
 		global comradeEventsSheetMain
 
 		gSheet = gspread.authorize(credentials)
-
-		# Get required worksheets
-		comradeSheetMain = gSheet.open("DSRR Comradeship System").worksheet("BOT_DATA")
-		comradeEventsSheetMain = gSheet.open("DSRR Comradeship System").worksheet("Event Submissions")
 		
 		logs.log("Loaded gSpread")
 
