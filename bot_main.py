@@ -93,6 +93,8 @@ async def on_message(msg):
 	
 	
 if __name__ == '__main__':
+	global gSheets
+	
 	exts = find_extensions("./cogs")
 	
 	for extension in exts :
