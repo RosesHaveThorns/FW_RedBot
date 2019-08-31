@@ -19,7 +19,7 @@ class HonRed(commands.Cog):
 		
 # COMMAND: $honstatus <username>
 
-	@commands.command(pass_context = True)
+	@commands.command()
 	async def honstatus(self, context):
 		self.logs.log("'$honstatus' command called")
 
@@ -92,7 +92,7 @@ class HonRed(commands.Cog):
 
 # COMMAND: $honupdate <username> <requirement>
 
-	@commands.command(pass_context = True)
+	@commands.command()
 	async def honupdate(self, context):
 
 		msg = context.message
@@ -123,7 +123,7 @@ class HonRed(commands.Cog):
 
 			if not found:
 				await msgOut.edit(content="**I couldn't find a gap in the spreadsheet**, please let the Minister for Personell know about this!")
- 				self.logs.log("Command failed, couldnt find user")	
+				self.logs.log("Command failed, couldnt find user")	
 	  
 			if found:
 				## SET CELLS
@@ -138,8 +138,8 @@ class HonRed(commands.Cog):
 				
 # COMMAND: $honregister <username>
 
-	@commands.command(pass_context = True)
-	async def honupdate(self, context):
+	@commands.command()
+	async def honregister(self, context):
 		
 		self.logs.log("'$honregister' command called")	
 
@@ -178,4 +178,4 @@ class HonRed(commands.Cog):
 			self.logs.log("Command Succesfull")
 			
 def setup(client):
-    client.add_cog(HonRed(client))
+	client.add_cog(HonRed(client))
