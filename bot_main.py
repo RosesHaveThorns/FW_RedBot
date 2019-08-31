@@ -7,7 +7,7 @@ import gspread
 from discord.ext import commands
 from oauth2client.service_account import ServiceAccountCredentials
 
-TOKEN = 'NTY2MTY1MTg4OTg3MDYwMjQ0.XWpiZA.ZRyCEBjn1Ph_BG6dPphQERSuWvM'
+TOKEN = '__ DISCORD BOT TOKEN HERE __'
 
 logs = logger()
 logs.log("---------------------- Starting Up ----------------------")
