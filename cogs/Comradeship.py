@@ -13,12 +13,12 @@ class Comradeship(commands.Cog):
 		self.logs = logger
 		self.gsheet = sheets
 		
-		self.comradeSheetMain = self.gSheet.open("DSRR Comradeship System").worksheet("BOT_DATA")
-		self.comradeEventsSheetMain = self.gSheet.open("DSRR Comradeship System").worksheet("Event Submissions")
+		self.comradeSheetMain = self.gsheet.open("DSRR Comradeship System").worksheet("BOT_DATA")
+		self.comradeEventsSheetMain = self.gsheet.open("DSRR Comradeship System").worksheet("Event Submissions")
 		
 # COMMAND: $comradeshiplevel <username>
 
-	@commands.command(pass_context = True)
+	@commands.command()
 	async def comradeshiplevel(self, context):
 		self.logs.log("'$comradeshiplevel' command called")
 
@@ -65,11 +65,11 @@ class Comradeship(commands.Cog):
 			await msgOut.edit(content='', embed=embed)
 			self.logs.log("Command Succesfull")    
 
-# COMMAND: $comradeshiplevel <username>
+# COMMAND: $comradeshipevent <username> <description> <evidence>
 
-	@commands.command(pass_context = True)
+	@commands.command()
 	async def comradeshipevent(self, context):
-		self.logs.log("'$comradeshiplevel' command called")
+		self.logs.log("'$comradeshipevent' command called")
 
 		msg = context.message
 		
