@@ -7,7 +7,7 @@ import gspread
 from discord.ext import commands
 from oauth2client.service_account import ServiceAccountCredentials
 
-TOKEN = '___ ADD BOT TOKEN HERE __'
+TOKEN = '___ PUT DISCORD BOT TOKEN HERE __'
 
 logs = logger()
 logs.log("---------------------- Starting Up ----------------------")
@@ -78,6 +78,8 @@ async def on_message(msg):
 if __name__ == '__main__':
 	global gSheets
 	
+	client.remove_command("help")
+	
 	exts = find_extensions("./cogs")
 	
 	for extension in exts :
@@ -95,7 +97,7 @@ if __name__ == '__main__':
 			cog.set_refs(logs, gSheet)
 
 			for i in cog.get_commands():
-				logs.log(i.name)
+				logs.log("Created Command " + i.name)
 		
 		except Exception as error:
 			logs.log("ERROR: Could not pass the extension {} the logger. [{}]".format(extension, error))
