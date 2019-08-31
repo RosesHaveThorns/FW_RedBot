@@ -21,14 +21,25 @@ class Games(commands.Cog):
 		
 		msgOut = await context.message.channel.send(content='Rolling the Die, Clickety Clack...')
 		failed = 0
+		
 		try:
 			input = context.message.content.split(" ")[1].strip()
 			max = int(input)
 
 		except Exception as error:
 			failed = 1
-			self.logs.log("FAILED: <sides> Parameter Not an Integer")
-			await msgOut.edit(content="<sides> Parameter Must be an Integer [{}]".format(error))
+			self.logs.log("FAILED: <sides> Parameter Not an Integer [{}]".format(error))
+			await msgOut.edit(content="<sides> Parameter Must be an Integer")
+
+		if len(str(max)) > 900:
+			failed = 1
+			self.logs.log("FAILED: <sides> Parameter Too Big")
+			await msgOut.edit(content="<sides> Parameter Must be smaller than 900 characters")
+
+		if max < 1:
+			failed = 0
+			self.logs.log("FAILED: <sides> Parameter Too Small")
+			await msgOut.edit(content="<sides> Parameter Must be Larger than 0")
 
 		if failed == 0:
 			out = "The " + input + " sided die Landed On a **" + str(random.randint(1, max)) + "**"
