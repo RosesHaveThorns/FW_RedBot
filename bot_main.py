@@ -7,7 +7,7 @@ import gspread
 from discord.ext import commands
 from oauth2client.service_account import ServiceAccountCredentials
 
-TOKEN = '___ PUT DISCORD BOT TOKEN HERE __'
+TOKEN = 'NTY2MTY1MTg4OTg3MDYwMjQ0.XWpiZA.ZRyCEBjn1Ph_BG6dPphQERSuWvM'
 
 logs = logger()
 logs.log("---------------------- Starting Up ----------------------")
@@ -66,12 +66,12 @@ async def on_ready():
 async def on_message(msg):
 	global lastLoginTime
 	
-	## Check if gSpread has been logged in for more than 20 minutes, if so reload
-	if time.time() - lastLoginTime >= (20*30):
-		logs.log("Time since last gsheets login is " + str((time.time() - lastLoginTime)/60) + " minutes")
-		logs.log("Avoiding timeout; Logging back in to gsheets")
-		setup_gSpread()
+	## Check if gSpread token has expired, reload
+	if credentials.access_token_expired:
+		logs.log("GSheets Token expired. Last login at {}".format(lastLoginTime ))
+		gSheet.login()
 		lastLoginTime = time.time()
+
 	await client.process_commands(msg)
 	
 	
