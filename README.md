@@ -1,7 +1,7 @@
 # FW_RedBot
 A Discord Bot for the Flairwars Red Discord Server.
 
-A rewrite of all scripts to convert to the discord.py cogs system is in progress.
+A rewrite of all scripts to convert to the discord.py cogs system was completed on 31/08/19. For the old version, see the deprecated folder.
 
 ## Setup Info
 #### API Credentials
