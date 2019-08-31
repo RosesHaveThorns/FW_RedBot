@@ -12,7 +12,7 @@ class Help(commands.Cog):
 		f = open('HELP.info', 'r+')
 		self.helpContents = f.read()
 
-		if readMe_contents == "":
+		if self.helpContents == "":
 			log("No Help File Found. Created Empty One")
 		
 		f.close()
@@ -24,12 +24,12 @@ class Help(commands.Cog):
 # COMMAND: $help
 
 	@commands.command()
-	async def help(self):
+	async def help(self, context):
 		self.logs.log("'$help' command called")
 		
-		await message.channel.send(self.helpContents)
+		await context.message.channel.send(self.helpContents)
 		
-		log("Command Succesfull")
+		self.logs.log("Command Succesfull")
 		
 def setup(client):
 	client.add_cog(Help(client))
