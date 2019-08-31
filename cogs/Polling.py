@@ -42,7 +42,7 @@ class Polling(commands.Cog):
 		
 # COMMAND: $poll <question> OR $poll {<question>} [<itemA>] [<itemB>] [<itemC>] ...
 
-	@commands.command(pass_context = True)
+	@commands.command()
 	async def poll(self, context):
 			self.logs.log("'$poll' command called")
 
