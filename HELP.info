@@ -1,0 +1,44 @@
+***RedBot Help/Commands***
+Note that Caps will not affect the command, but may affect data included (e.g. <username>).
+
+**Commands**
+*$HonStatus <username>*
+    - Outputs the current status of each requirement for recieveing HonRed for the entered <username>
+
+*$HonRegister <username>*
+    - Adds the entered <username> to a list of people to be registered
+
+*$ComradeshipLevel <reddit username>*
+    - Outputs the current Comradeship System levels and points for the entered <username>
+
+*$ComradeshipEvent <reddit username> <description, **no spaces**> <evidence link, **no spaces**>*
+    - Sends a Event Submission to the Comradeship Spreadsheet
+    - <description> should be one of the events which points can be awarded for, ***with no spaces***:
+        -> Wall
+        -> RaidWin
+        -> RaidLoss
+        -> RaidMaterialsFound<amount-found>
+        -> RaidMaterialsMade<amount-made>
+        -> Lore
+        -> DrawpileHost
+        -> DrawpileParticipant
+    - <evidence> should be a link to a piece of evidence which proves this event, ***with no spaces***
+        -> where more than one piece of evidence is required (e.g. Raid Materials), split the links with (<number>), e.g. "(1)https:\somelink.com(2)https\www.otherlink.net"
+
+*$honupdate <username> <requirement, **no spaces**>*
+    - Adds an update request for <username>'s Honarary Red application <requirement> in the spreadsheet
+    - Note **this command is only available in #honorary-red-logging**
+    - This does not change the actual data, just tells personell to. In most cases this should happen within 12 hours
+
+*$poll <question>*
+    - Adds thumb up, thumb down and shrug emotes to the message
+
+*$poll {<question>} [<option A>} [<option B>}  [<option C>}...*
+    - Adds letter emotes to the message for each option, to a maximum of 20 option
+
+*$dice <sides>*
+    - Generates a random number between 1 and <sides>, inclusively 
+    - There is no maximum amount for sides as far as I know
+
+*$Help*
+    - Outputs this message

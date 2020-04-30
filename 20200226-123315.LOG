@@ -1,0 +1,1892 @@
+2020-02-26 12:33:15 >>> ---------------------- Starting Up ----------------------
+2020-02-26 12:33:15 >>> Loaded gSpread
+2020-02-26 12:33:15 >>> Loaded Comradeship cog
+2020-02-26 12:33:16 >>> Created Command comradeshiplevel
+2020-02-26 12:33:16 >>> Created Command comradeshipevent
+2020-02-26 12:33:16 >>> Loaded Games cog
+2020-02-26 12:33:16 >>> Created Command dice
+2020-02-26 12:33:16 >>> Loaded Moderation cog
+2020-02-26 12:33:16 >>> Created Command report
+2020-02-26 12:33:16 >>> Loaded Polling cog
+2020-02-26 12:33:16 >>> Created Command poll
+2020-02-26 12:33:16 >>> Loaded Help cog
+2020-02-26 12:33:16 >>> Created Command help
+2020-02-26 12:33:16 >>> Loaded HonRed cog
+2020-02-26 12:33:18 >>> Created Command honstatus
+2020-02-26 12:33:18 >>> Created Command honupdate
+2020-02-26 12:33:18 >>> Created Command honregister
+2020-02-26 12:33:21 >>> We have logged in as RedBot#1433, setup complete
+2020-02-26 15:10:22 >>> GSheets Token expired. Last login at 1582720395.7312784
+2020-02-26 16:21:52 >>> GSheets Token expired. Last login at 1582729822.5781431
+2020-02-26 17:23:00 >>> GSheets Token expired. Last login at 1582734112.9424663
+2020-02-26 18:46:51 >>> GSheets Token expired. Last login at 1582737780.7633126
+2020-02-26 19:55:04 >>> GSheets Token expired. Last login at 1582742811.5160704
+2020-02-26 20:09:58 >>> '$comradeshipevent' command called
+2020-02-26 20:10:01 >>> Command Succesfull
+2020-02-26 20:11:01 >>> '$comradeshipevent' command called
+2020-02-26 20:11:02 >>> Command Succesfull
+2020-02-26 20:55:58 >>> GSheets Token expired. Last login at 1582746904.8624673
+2020-02-26 21:58:25 >>> GSheets Token expired. Last login at 1582750558.9011683
+2020-02-26 21:58:52 >>> '$comradeshipevent' command called
+2020-02-26 21:58:54 >>> Command Succesfull
+2020-02-26 23:04:15 >>> GSheets Token expired. Last login at 1582754305.1215932
+2020-02-27 00:22:59 >>> GSheets Token expired. Last login at 1582758255.3868814
+2020-02-27 01:24:31 >>> GSheets Token expired. Last login at 1582762979.3790808
+2020-02-27 02:14:07 >>> '$comradeshipevent' command called
+2020-02-27 02:14:10 >>> Command Succesfull
+2020-02-27 02:50:33 >>> GSheets Token expired. Last login at 1582766671.189643
+2020-02-27 03:01:55 >>> '$honregister' command called
+2020-02-27 03:01:57 >>> Command Succesfull
+2020-02-27 04:57:17 >>> GSheets Token expired. Last login at 1582771833.5529306
+2020-02-27 05:56:07 >>> '$help' command called
+2020-02-27 05:56:07 >>> Command Succesfull
+2020-02-27 05:56:15 >>> '$comradeshiplevel' command called
+2020-02-27 05:56:18 >>> Command Succesfull
+2020-02-27 05:59:00 >>> GSheets Token expired. Last login at 1582779437.1778204
+2020-02-27 07:27:49 >>> GSheets Token expired. Last login at 1582783141.0213401
+2020-02-27 08:37:24 >>> GSheets Token expired. Last login at 1582788469.4425325
+2020-02-27 10:33:18 >>> GSheets Token expired. Last login at 1582792644.0772848
+2020-02-27 12:23:36 >>> GSheets Token expired. Last login at 1582799598.9016807
+2020-02-27 13:42:01 >>> GSheets Token expired. Last login at 1582806216.6025088
+2020-02-27 15:40:09 >>> GSheets Token expired. Last login at 1582810921.2928777
+2020-02-27 16:51:39 >>> GSheets Token expired. Last login at 1582818009.1210046
+2020-02-27 18:09:12 >>> GSheets Token expired. Last login at 1582822299.1416745
+2020-02-27 19:19:11 >>> GSheets Token expired. Last login at 1582826953.026072
+2020-02-27 20:19:52 >>> GSheets Token expired. Last login at 1582831151.7962065
+2020-02-27 20:27:02 >>> '$comradeshiplevel' command called
+2020-02-27 20:27:04 >>> Command failed, couldnt find username
+2020-02-27 20:27:15 >>> '$comradeshiplevel' command called
+2020-02-27 20:27:16 >>> Command failed, couldnt find username
+2020-02-27 20:43:27 >>> '$help' command called
+2020-02-27 20:43:27 >>> Command Succesfull
+2020-02-27 21:20:05 >>> GSheets Token expired. Last login at 1582834792.221219
+2020-02-27 22:21:39 >>> GSheets Token expired. Last login at 1582838405.2689848
+2020-02-27 23:19:15 >>> '$poll' command called
+2020-02-27 23:19:17 >>> Command Succesfull
+2020-02-27 23:24:22 >>> GSheets Token expired. Last login at 1582842099.9645965
+2020-02-28 00:38:01 >>> GSheets Token expired. Last login at 1582845862.7721965
+2020-02-28 03:05:17 >>> GSheets Token expired. Last login at 1582850281.0909557
+2020-02-28 04:32:25 >>> GSheets Token expired. Last login at 1582859117.927641
+2020-02-28 06:21:50 >>> GSheets Token expired. Last login at 1582864345.223988
+2020-02-28 08:11:26 >>> GSheets Token expired. Last login at 1582870910.426351
+2020-02-28 08:51:01 >>> '$poll' command called
+2020-02-28 08:51:04 >>> Command Succesfull
+2020-02-28 10:06:14 >>> GSheets Token expired. Last login at 1582877486.2560246
+2020-02-28 13:42:12 >>> GSheets Token expired. Last login at 1582884374.7837017
+2020-02-28 15:16:11 >>> GSheets Token expired. Last login at 1582897332.6638315
+2020-02-28 16:28:28 >>> GSheets Token expired. Last login at 1582902971.34216
+2020-02-28 17:32:41 >>> GSheets Token expired. Last login at 1582907308.3859792
+2020-02-28 18:43:52 >>> GSheets Token expired. Last login at 1582911161.8973389
+2020-02-28 19:49:02 >>> GSheets Token expired. Last login at 1582915432.1761532
+2020-02-28 20:38:42 >>> '$poll' command called
+2020-02-28 20:38:46 >>> Command Succesfull
+2020-02-28 22:45:08 >>> GSheets Token expired. Last login at 1582919342.9167416
+2020-02-29 00:24:17 >>> GSheets Token expired. Last login at 1582929908.0832555
+2020-02-29 02:53:24 >>> GSheets Token expired. Last login at 1582935857.7225652
+2020-02-29 03:57:40 >>> GSheets Token expired. Last login at 1582944804.7919624
+2020-02-29 05:12:08 >>> GSheets Token expired. Last login at 1582948660.9763007
+2020-02-29 08:00:18 >>> GSheets Token expired. Last login at 1582953128.9486806
+2020-02-29 12:49:35 >>> GSheets Token expired. Last login at 1582963218.5947454
+2020-02-29 14:07:24 >>> GSheets Token expired. Last login at 1582980575.787995
+2020-02-29 15:19:06 >>> GSheets Token expired. Last login at 1582985244.5215356
+2020-02-29 16:24:37 >>> GSheets Token expired. Last login at 1582989546.4735556
+2020-02-29 17:59:55 >>> GSheets Token expired. Last login at 1582993477.343573
+2020-02-29 19:12:12 >>> GSheets Token expired. Last login at 1582999195.538454
+2020-02-29 20:12:16 >>> GSheets Token expired. Last login at 1583003532.9760025
+2020-02-29 21:12:32 >>> GSheets Token expired. Last login at 1583007136.503959
+2020-02-29 22:29:03 >>> GSheets Token expired. Last login at 1583010752.4655328
+2020-02-29 23:29:04 >>> GSheets Token expired. Last login at 1583015344.013662
+2020-03-01 00:05:00 >>> '$poll' command called
+2020-03-01 00:05:02 >>> Command Succesfull
+2020-03-01 00:29:08 >>> GSheets Token expired. Last login at 1583018944.2248666
+2020-03-01 01:30:56 >>> GSheets Token expired. Last login at 1583022548.0884147
+2020-03-01 02:44:46 >>> GSheets Token expired. Last login at 1583026256.330329
+2020-03-01 04:08:03 >>> GSheets Token expired. Last login at 1583030686.5432918
+2020-03-01 05:35:07 >>> GSheets Token expired. Last login at 1583035683.9878376
+2020-03-01 06:47:49 >>> GSheets Token expired. Last login at 1583040907.795378
+2020-03-01 08:12:03 >>> GSheets Token expired. Last login at 1583045269.1431427
+2020-03-01 11:13:08 >>> GSheets Token expired. Last login at 1583050323.3627267
+2020-03-01 15:08:01 >>> GSheets Token expired. Last login at 1583061188.3607686
+2020-03-01 16:32:29 >>> GSheets Token expired. Last login at 1583075281.3531933
+2020-03-01 17:37:55 >>> GSheets Token expired. Last login at 1583080349.956393
+2020-03-01 20:08:18 >>> GSheets Token expired. Last login at 1583084275.5710006
+2020-03-01 20:13:35 >>> '$comradeshipevent' command called
+2020-03-01 20:13:38 >>> Command Succesfull
+2020-03-01 21:56:47 >>> GSheets Token expired. Last login at 1583093299.0345829
+2020-03-01 23:10:15 >>> GSheets Token expired. Last login at 1583099807.1944113
+2020-03-02 00:11:03 >>> GSheets Token expired. Last login at 1583104215.1769502
+2020-03-02 01:34:41 >>> GSheets Token expired. Last login at 1583107863.6968207
+2020-03-02 03:02:37 >>> GSheets Token expired. Last login at 1583112881.0682213
+2020-03-02 04:50:29 >>> GSheets Token expired. Last login at 1583118157.289373
+2020-03-02 09:00:40 >>> GSheets Token expired. Last login at 1583124629.9998991
+2020-03-02 11:37:26 >>> GSheets Token expired. Last login at 1583139640.2350893
+2020-03-02 13:18:59 >>> GSheets Token expired. Last login at 1583149047.0022397
+2020-03-02 15:22:57 >>> GSheets Token expired. Last login at 1583155139.2352378
+2020-03-02 17:30:18 >>> GSheets Token expired. Last login at 1583162577.955327
+2020-03-02 20:18:08 >>> GSheets Token expired. Last login at 1583170218.1485915
+2020-03-02 22:38:35 >>> GSheets Token expired. Last login at 1583180288.0509717
+2020-03-02 23:12:14 >>> '$comradeshipevent' command called
+2020-03-02 23:12:16 >>> Command Succesfull
+2020-03-02 23:40:17 >>> GSheets Token expired. Last login at 1583188715.9137855
+2020-03-03 01:30:44 >>> GSheets Token expired. Last login at 1583192417.1390538
+2020-03-03 02:31:38 >>> GSheets Token expired. Last login at 1583199044.182909
+2020-03-03 03:44:24 >>> GSheets Token expired. Last login at 1583202698.2259068
+2020-03-03 05:13:26 >>> GSheets Token expired. Last login at 1583207064.7874336
+2020-03-03 06:41:54 >>> GSheets Token expired. Last login at 1583212406.5416691
+2020-03-03 07:52:45 >>> GSheets Token expired. Last login at 1583217714.1366985
+2020-03-03 08:55:07 >>> GSheets Token expired. Last login at 1583221965.9039211
+2020-03-03 11:20:01 >>> GSheets Token expired. Last login at 1583225707.3424215
+2020-03-03 12:25:48 >>> GSheets Token expired. Last login at 1583234401.9808211
+2020-03-03 13:28:24 >>> GSheets Token expired. Last login at 1583238348.080227
+2020-03-03 14:32:25 >>> GSheets Token expired. Last login at 1583242104.644959
+2020-03-03 15:39:30 >>> GSheets Token expired. Last login at 1583245945.9526181
+2020-03-03 17:13:30 >>> GSheets Token expired. Last login at 1583249970.7873673
+2020-03-03 18:18:25 >>> GSheets Token expired. Last login at 1583255610.2879674
+2020-03-03 19:30:10 >>> GSheets Token expired. Last login at 1583259505.1706982
+2020-03-03 19:30:10 >>> '$poll' command called
+2020-03-03 19:30:13 >>> Command Succesfull
+2020-03-03 19:37:51 >>> '$poll' command called
+2020-03-03 19:37:55 >>> Command Succesfull
+2020-03-03 19:38:14 >>> '$poll' command called
+2020-03-03 19:38:17 >>> Command Succesfull
+2020-03-03 19:38:31 >>> '$poll' command called
+2020-03-03 19:38:34 >>> Command Succesfull
+2020-03-03 20:56:51 >>> GSheets Token expired. Last login at 1583263810.376928
+2020-03-03 22:05:31 >>> GSheets Token expired. Last login at 1583269011.3076909
+2020-03-03 23:11:48 >>> GSheets Token expired. Last login at 1583273132.0164418
+2020-03-04 02:18:26 >>> GSheets Token expired. Last login at 1583277108.8795507
+2020-03-04 04:14:02 >>> GSheets Token expired. Last login at 1583288306.8192165
+2020-03-04 08:01:18 >>> GSheets Token expired. Last login at 1583295242.8557217
+2020-03-04 10:14:46 >>> GSheets Token expired. Last login at 1583308878.6547065
+2020-03-04 10:15:35 >>> '$poll' command called
+2020-03-04 10:15:38 >>> Command Succesfull
+2020-03-04 12:14:35 >>> GSheets Token expired. Last login at 1583316886.2007709
+2020-03-04 14:21:07 >>> GSheets Token expired. Last login at 1583324075.9488487
+2020-03-04 16:31:03 >>> GSheets Token expired. Last login at 1583331667.9614444
+2020-03-04 16:32:37 >>> '$honregister' command called
+2020-03-04 16:32:38 >>> Command Succesfull
+2020-03-04 17:39:56 >>> GSheets Token expired. Last login at 1583339463.4908087
+2020-03-04 19:44:11 >>> GSheets Token expired. Last login at 1583343596.7605932
+2020-03-04 20:57:05 >>> GSheets Token expired. Last login at 1583351051.6693451
+2020-03-04 22:29:04 >>> GSheets Token expired. Last login at 1583355425.2495573
+2020-03-04 23:41:31 >>> GSheets Token expired. Last login at 1583360944.319821
+2020-03-05 01:03:24 >>> GSheets Token expired. Last login at 1583365291.8030412
+2020-03-05 02:06:39 >>> GSheets Token expired. Last login at 1583370204.434044
+2020-03-05 05:47:10 >>> GSheets Token expired. Last login at 1583373999.9860153
+2020-03-05 06:56:04 >>> GSheets Token expired. Last login at 1583387230.549633
+2020-03-05 11:50:22 >>> GSheets Token expired. Last login at 1583391364.08281
+2020-03-05 12:52:40 >>> GSheets Token expired. Last login at 1583409022.9101837
+2020-03-05 14:23:58 >>> GSheets Token expired. Last login at 1583412760.7912233
+2020-03-05 15:38:51 >>> GSheets Token expired. Last login at 1583418238.2432659
+2020-03-05 16:39:07 >>> GSheets Token expired. Last login at 1583422731.427931
+2020-03-05 17:39:49 >>> GSheets Token expired. Last login at 1583426347.686806
+2020-03-05 19:58:15 >>> GSheets Token expired. Last login at 1583429989.239352
+2020-03-05 21:07:32 >>> GSheets Token expired. Last login at 1583438295.9630048
+2020-03-05 22:14:00 >>> GSheets Token expired. Last login at 1583442452.4720874
+2020-03-06 00:28:06 >>> GSheets Token expired. Last login at 1583446440.315475
+2020-03-06 01:39:16 >>> GSheets Token expired. Last login at 1583454486.2572918
+2020-03-06 01:44:28 >>> '$honregister' command called
+2020-03-06 01:44:30 >>> Command Succesfull
+2020-03-06 02:44:41 >>> GSheets Token expired. Last login at 1583458756.2548933
+2020-03-06 05:46:24 >>> GSheets Token expired. Last login at 1583462681.3663175
+2020-03-06 11:49:58 >>> GSheets Token expired. Last login at 1583473584.3981156
+2020-03-06 16:46:22 >>> GSheets Token expired. Last login at 1583495398.5992136
+2020-03-06 17:48:15 >>> GSheets Token expired. Last login at 1583513182.1744099
+2020-03-06 20:07:27 >>> GSheets Token expired. Last login at 1583516895.180304
+2020-03-06 21:48:32 >>> GSheets Token expired. Last login at 1583525247.8727605
+2020-03-07 00:56:25 >>> GSheets Token expired. Last login at 1583531312.5535955
+2020-03-07 09:50:53 >>> GSheets Token expired. Last login at 1583542585.2416375
+2020-03-07 17:07:46 >>> GSheets Token expired. Last login at 1583574653.8609571
+2020-03-07 18:15:08 >>> GSheets Token expired. Last login at 1583600866.807526
+2020-03-07 19:15:14 >>> GSheets Token expired. Last login at 1583604908.3967266
+2020-03-07 20:32:46 >>> GSheets Token expired. Last login at 1583608514.8980315
+2020-03-07 22:52:38 >>> GSheets Token expired. Last login at 1583613166.0521173
+2020-03-07 23:56:41 >>> GSheets Token expired. Last login at 1583621558.6594586
+2020-03-08 05:10:37 >>> GSheets Token expired. Last login at 1583625401.676849
+2020-03-08 10:57:18 >>> GSheets Token expired. Last login at 1583644237.659278
+2020-03-08 15:29:43 >>> GSheets Token expired. Last login at 1583665039.015062
+2020-03-08 21:43:32 >>> GSheets Token expired. Last login at 1583681383.5328622
+2020-03-09 04:00:32 >>> GSheets Token expired. Last login at 1583703812.4821734
+2020-03-09 06:29:36 >>> GSheets Token expired. Last login at 1583726432.7848458
+2020-03-09 10:36:10 >>> GSheets Token expired. Last login at 1583735376.4312103
+2020-03-09 10:36:10 >>> '$poll' command called
+2020-03-09 13:31:31 >>> GSheets Token expired. Last login at 1583750170.4332175
+2020-03-09 19:12:56 >>> GSheets Token expired. Last login at 1583760691.1467788
+2020-03-09 20:13:11 >>> GSheets Token expired. Last login at 1583781176.6596236
+2020-03-09 21:19:28 >>> GSheets Token expired. Last login at 1583784791.1746306
+2020-03-09 23:45:40 >>> GSheets Token expired. Last login at 1583788768.2279074
+2020-03-10 01:46:39 >>> GSheets Token expired. Last login at 1583797540.5742984
+2020-03-10 07:18:38 >>> GSheets Token expired. Last login at 1583804799.5813346
+2020-03-10 08:56:37 >>> GSheets Token expired. Last login at 1583824718.2188597
+2020-03-10 11:12:10 >>> GSheets Token expired. Last login at 1583830597.2095482
+2020-03-10 21:31:10 >>> GSheets Token expired. Last login at 1583838730.8490238
+2020-03-10 22:13:40 >>> '$poll' command called
+2020-03-10 22:13:43 >>> Command Succesfull
+2020-03-10 23:45:22 >>> GSheets Token expired. Last login at 1583875871.0382373
+2020-03-11 01:32:54 >>> GSheets Token expired. Last login at 1583883922.4936864
+2020-03-11 03:16:36 >>> GSheets Token expired. Last login at 1583890374.6854587
+2020-03-11 06:31:52 >>> GSheets Token expired. Last login at 1583896596.3167095
+2020-03-11 09:05:16 >>> GSheets Token expired. Last login at 1583908312.8796575
+2020-03-11 13:22:40 >>> GSheets Token expired. Last login at 1583917516.336783
+2020-03-11 19:18:29 >>> GSheets Token expired. Last login at 1583932960.4228802
+2020-03-11 20:22:08 >>> GSheets Token expired. Last login at 1583954310.0471742
+2020-03-11 21:31:39 >>> GSheets Token expired. Last login at 1583958128.0604055
+2020-03-11 23:05:13 >>> GSheets Token expired. Last login at 1583962299.097862
+2020-03-12 01:14:30 >>> GSheets Token expired. Last login at 1583967913.4325857
+2020-03-12 02:16:22 >>> GSheets Token expired. Last login at 1583975670.8514016
+2020-03-12 03:54:20 >>> GSheets Token expired. Last login at 1583979382.5388956
+2020-03-12 04:56:38 >>> GSheets Token expired. Last login at 1583985260.3305666
+2020-03-12 07:01:48 >>> GSheets Token expired. Last login at 1583988998.6493604
+2020-03-12 09:55:46 >>> GSheets Token expired. Last login at 1583996508.9653807
+2020-03-12 19:42:00 >>> GSheets Token expired. Last login at 1584006946.9935112
+2020-03-12 20:50:26 >>> GSheets Token expired. Last login at 1584042120.7373412
+2020-03-12 21:53:03 >>> GSheets Token expired. Last login at 1584046226.3662772
+2020-03-12 23:36:58 >>> GSheets Token expired. Last login at 1584049983.4582999
+2020-03-13 04:51:30 >>> GSheets Token expired. Last login at 1584056218.971216
+2020-03-13 09:12:33 >>> GSheets Token expired. Last login at 1584075090.7406385
+2020-03-13 10:57:36 >>> GSheets Token expired. Last login at 1584090753.1718261
+2020-03-13 12:40:25 >>> GSheets Token expired. Last login at 1584097056.780636
+2020-03-13 15:59:11 >>> GSheets Token expired. Last login at 1584103225.612865
+2020-03-13 23:19:39 >>> GSheets Token expired. Last login at 1584115151.3738036
+2020-03-14 01:36:23 >>> GSheets Token expired. Last login at 1584141579.2971451
+2020-03-15 01:32:14 >>> GSheets Token expired. Last login at 1584149783.0634396
+2020-03-15 05:13:03 >>> GSheets Token expired. Last login at 1584235934.2678733
+2020-03-15 08:58:38 >>> GSheets Token expired. Last login at 1584249183.168837
+2020-03-15 13:01:23 >>> GSheets Token expired. Last login at 1584262718.3199217
+2020-03-15 13:03:28 >>> '$poll' command called
+2020-03-15 15:34:25 >>> GSheets Token expired. Last login at 1584277283.4803119
+2020-03-15 16:35:22 >>> GSheets Token expired. Last login at 1584286465.2710996
+2020-03-15 17:56:06 >>> GSheets Token expired. Last login at 1584290122.9444952
+2020-03-15 19:40:09 >>> GSheets Token expired. Last login at 1584294966.602343
+2020-03-15 19:42:15 >>> '$poll' command called
+2020-03-15 19:42:17 >>> Command Succesfull
+2020-03-15 19:46:29 >>> '$poll' command called
+2020-03-15 19:46:30 >>> Command Succesfull
+2020-03-15 20:50:57 >>> GSheets Token expired. Last login at 1584301209.108434
+2020-03-15 23:27:34 >>> GSheets Token expired. Last login at 1584305457.2307353
+2020-03-16 05:00:20 >>> GSheets Token expired. Last login at 1584314854.5940511
+2020-03-16 12:19:49 >>> GSheets Token expired. Last login at 1584334820.7506425
+2020-03-16 13:50:21 >>> GSheets Token expired. Last login at 1584361189.947383
+2020-03-16 15:11:20 >>> GSheets Token expired. Last login at 1584366621.069361
+2020-03-16 16:18:03 >>> GSheets Token expired. Last login at 1584371480.2623184
+2020-03-16 19:43:43 >>> GSheets Token expired. Last login at 1584375483.8474066
+2020-03-16 19:44:11 >>> '$honregister' command called
+2020-03-16 19:44:15 >>> Command Succesfull
+2020-03-16 21:58:58 >>> We have logged in as RedBot#1433, setup complete
+2020-03-16 22:21:29 >>> GSheets Token expired. Last login at 1584387823.6353686
+2020-03-16 23:50:36 >>> GSheets Token expired. Last login at 1584397289.5732822
+2020-03-17 07:44:38 >>> GSheets Token expired. Last login at 1584402636.100821
+2020-03-17 08:53:37 >>> GSheets Token expired. Last login at 1584431078.07847
+2020-03-17 10:21:48 >>> GSheets Token expired. Last login at 1584435217.5407157
+2020-03-17 11:31:41 >>> GSheets Token expired. Last login at 1584440508.2511933
+2020-03-17 14:05:46 >>> GSheets Token expired. Last login at 1584444701.3477705
+2020-03-17 21:33:06 >>> GSheets Token expired. Last login at 1584453946.053781
+2020-03-17 23:29:47 >>> GSheets Token expired. Last login at 1584480786.4269276
+2020-03-18 05:00:39 >>> GSheets Token expired. Last login at 1584487787.9078617
+2020-03-18 06:40:24 >>> GSheets Token expired. Last login at 1584507639.110815
+2020-03-18 08:27:52 >>> GSheets Token expired. Last login at 1584513624.3507872
+2020-03-18 08:27:52 >>> '$poll' command called
+2020-03-18 08:28:45 >>> '$poll' command called
+2020-03-18 08:30:44 >>> '$poll' command called
+2020-03-18 11:18:23 >>> GSheets Token expired. Last login at 1584520072.2880557
+2020-03-18 12:31:30 >>> GSheets Token expired. Last login at 1584530303.8634496
+2020-03-18 19:41:43 >>> GSheets Token expired. Last login at 1584534690.4536412
+2020-03-18 20:48:38 >>> GSheets Token expired. Last login at 1584560503.5877159
+2020-03-19 00:40:14 >>> GSheets Token expired. Last login at 1584564518.589961
+2020-03-19 05:26:09 >>> GSheets Token expired. Last login at 1584578414.9253345
+2020-03-19 07:03:30 >>> GSheets Token expired. Last login at 1584595569.8691862
+2020-03-19 08:07:16 >>> GSheets Token expired. Last login at 1584601411.0191433
+2020-03-19 09:09:29 >>> GSheets Token expired. Last login at 1584605236.8202167
+2020-03-19 10:15:18 >>> GSheets Token expired. Last login at 1584608969.0763505
+2020-03-19 18:02:51 >>> GSheets Token expired. Last login at 1584612918.61503
+2020-03-19 19:51:09 >>> GSheets Token expired. Last login at 1584640971.374088
+2020-03-19 21:51:30 >>> GSheets Token expired. Last login at 1584647469.1396518
+2020-03-19 22:52:33 >>> GSheets Token expired. Last login at 1584654690.9357662
+2020-03-20 01:35:27 >>> GSheets Token expired. Last login at 1584658353.2716875
+2020-03-20 03:26:31 >>> GSheets Token expired. Last login at 1584668127.292529
+2020-03-20 04:31:41 >>> GSheets Token expired. Last login at 1584674791.4919126
+2020-03-20 07:02:45 >>> GSheets Token expired. Last login at 1584678701.2680604
+2020-03-20 20:07:27 >>> GSheets Token expired. Last login at 1584687765.8518887
+2020-03-20 21:07:38 >>> GSheets Token expired. Last login at 1584734847.4122238
+2020-03-21 13:44:46 >>> GSheets Token expired. Last login at 1584738458.8965006
+2020-03-21 15:17:03 >>> GSheets Token expired. Last login at 1584798286.6003091
+2020-03-21 16:25:44 >>> GSheets Token expired. Last login at 1584803823.3699112
+2020-03-21 17:36:28 >>> GSheets Token expired. Last login at 1584807944.7755547
+2020-03-21 20:48:52 >>> GSheets Token expired. Last login at 1584812188.2398884
+2020-03-21 22:57:00 >>> GSheets Token expired. Last login at 1584823732.5621746
+2020-03-22 13:26:35 >>> GSheets Token expired. Last login at 1584831420.5023222
+2020-03-22 14:58:33 >>> GSheets Token expired. Last login at 1584883595.68825
+2020-03-22 16:08:16 >>> GSheets Token expired. Last login at 1584889113.1736648
+2020-03-22 17:20:02 >>> GSheets Token expired. Last login at 1584893296.7392807
+2020-03-22 20:18:26 >>> GSheets Token expired. Last login at 1584897602.7994761
+2020-03-22 21:19:13 >>> GSheets Token expired. Last login at 1584908306.4575565
+2020-03-23 01:36:55 >>> GSheets Token expired. Last login at 1584911953.6602688
+2020-03-23 10:34:13 >>> GSheets Token expired. Last login at 1584927415.5094578
+2020-03-23 15:05:57 >>> GSheets Token expired. Last login at 1584959653.2168005
+2020-03-23 16:35:49 >>> GSheets Token expired. Last login at 1584975957.0826762
+2020-03-23 17:40:31 >>> GSheets Token expired. Last login at 1584981349.5961945
+2020-03-23 17:55:07 >>> '$honregister' command called
+2020-03-23 17:55:10 >>> Command Succesfull
+2020-03-23 18:40:33 >>> GSheets Token expired. Last login at 1584985231.36489
+2020-03-23 19:40:47 >>> GSheets Token expired. Last login at 1584988834.0100973
+2020-03-23 20:43:53 >>> GSheets Token expired. Last login at 1584992447.595157
+2020-03-23 21:44:32 >>> GSheets Token expired. Last login at 1584996233.2085736
+2020-03-23 22:48:18 >>> GSheets Token expired. Last login at 1584999872.7252886
+2020-03-23 23:48:50 >>> GSheets Token expired. Last login at 1585003698.6120722
+2020-03-24 01:01:56 >>> GSheets Token expired. Last login at 1585007330.1395013
+2020-03-24 03:00:30 >>> GSheets Token expired. Last login at 1585011717.0362694
+2020-03-24 03:04:04 >>> '$honregister' command called
+2020-03-24 03:04:06 >>> Command Succesfull
+2020-03-24 04:16:43 >>> GSheets Token expired. Last login at 1585018830.77798
+2020-03-24 08:17:00 >>> GSheets Token expired. Last login at 1585023403.475508
+2020-03-24 10:16:15 >>> GSheets Token expired. Last login at 1585037820.38298
+2020-03-24 14:36:08 >>> GSheets Token expired. Last login at 1585044975.5626326
+2020-03-24 15:36:31 >>> GSheets Token expired. Last login at 1585060568.3898013
+2020-03-24 16:56:42 >>> GSheets Token expired. Last login at 1585064191.8799431
+2020-03-24 18:05:17 >>> GSheets Token expired. Last login at 1585069002.9615986
+2020-03-24 19:09:01 >>> GSheets Token expired. Last login at 1585073117.6276834
+2020-03-24 20:09:01 >>> GSheets Token expired. Last login at 1585076941.4313385
+2020-03-24 21:09:05 >>> GSheets Token expired. Last login at 1585080541.730528
+2020-03-24 22:16:55 >>> GSheets Token expired. Last login at 1585084145.5440295
+2020-03-24 23:26:29 >>> GSheets Token expired. Last login at 1585088215.8389804
+2020-03-25 00:26:40 >>> GSheets Token expired. Last login at 1585092389.9441879
+2020-03-25 01:56:04 >>> GSheets Token expired. Last login at 1585096000.3333104
+2020-03-25 02:56:46 >>> GSheets Token expired. Last login at 1585101364.7281468
+2020-03-25 05:41:57 >>> GSheets Token expired. Last login at 1585105006.905461
+2020-03-25 06:58:54 >>> GSheets Token expired. Last login at 1585114917.3448386
+2020-03-25 08:40:34 >>> GSheets Token expired. Last login at 1585119534.667008
+2020-03-25 10:42:42 >>> GSheets Token expired. Last login at 1585125634.933137
+2020-03-25 15:16:55 >>> GSheets Token expired. Last login at 1585132962.0831337
+2020-03-25 16:43:23 >>> GSheets Token expired. Last login at 1585149415.5713937
+2020-03-25 18:29:50 >>> GSheets Token expired. Last login at 1585154603.693769
+2020-03-25 19:34:05 >>> GSheets Token expired. Last login at 1585160990.4409978
+2020-03-25 20:53:20 >>> GSheets Token expired. Last login at 1585164845.1989694
+2020-03-25 22:19:55 >>> GSheets Token expired. Last login at 1585169600.160198
+2020-03-26 01:43:53 >>> GSheets Token expired. Last login at 1585174795.9510958
+2020-03-26 03:06:16 >>> GSheets Token expired. Last login at 1585187033.8587506
+2020-03-26 04:17:13 >>> GSheets Token expired. Last login at 1585191976.680036
+2020-03-26 05:18:25 >>> GSheets Token expired. Last login at 1585196233.729507
+2020-03-26 06:23:36 >>> GSheets Token expired. Last login at 1585199905.529573
+2020-03-26 10:54:10 >>> GSheets Token expired. Last login at 1585203816.4539487
+2020-03-26 12:39:52 >>> GSheets Token expired. Last login at 1585220050.863271
+2020-03-26 13:39:52 >>> GSheets Token expired. Last login at 1585226392.6904998
+2020-03-26 16:03:32 >>> GSheets Token expired. Last login at 1585229992.3204772
+2020-03-26 17:22:12 >>> GSheets Token expired. Last login at 1585238612.314285
+2020-03-26 19:24:53 >>> GSheets Token expired. Last login at 1585243332.1949992
+2020-03-26 20:24:55 >>> GSheets Token expired. Last login at 1585250693.1757739
+2020-03-26 21:55:55 >>> GSheets Token expired. Last login at 1585254295.1466908
+2020-03-26 22:56:19 >>> GSheets Token expired. Last login at 1585259755.0986223
+2020-03-27 01:22:11 >>> GSheets Token expired. Last login at 1585263379.6724072
+2020-03-27 03:19:50 >>> GSheets Token expired. Last login at 1585272131.754831
+2020-03-27 05:12:18 >>> GSheets Token expired. Last login at 1585279190.973772
+2020-03-27 07:32:26 >>> GSheets Token expired. Last login at 1585285938.1988847
+2020-03-27 10:08:36 >>> GSheets Token expired. Last login at 1585294346.5630214
+2020-03-27 13:04:54 >>> GSheets Token expired. Last login at 1585303716.297487
+2020-03-27 14:39:59 >>> GSheets Token expired. Last login at 1585314294.6478
+2020-03-27 15:50:50 >>> GSheets Token expired. Last login at 1585319999.718646
+2020-03-27 17:03:12 >>> GSheets Token expired. Last login at 1585324250.896838
+2020-03-27 18:30:43 >>> GSheets Token expired. Last login at 1585328592.4003632
+2020-03-27 19:33:40 >>> GSheets Token expired. Last login at 1585333843.412042
+2020-03-27 20:45:23 >>> GSheets Token expired. Last login at 1585337620.5816085
+2020-03-27 21:54:21 >>> GSheets Token expired. Last login at 1585341923.7757645
+2020-03-27 23:12:02 >>> GSheets Token expired. Last login at 1585346061.5682347
+2020-03-28 01:01:00 >>> GSheets Token expired. Last login at 1585350722.7889478
+2020-03-28 04:03:54 >>> GSheets Token expired. Last login at 1585357261.0403788
+2020-03-28 05:57:54 >>> GSheets Token expired. Last login at 1585368234.7629924
+2020-03-28 07:04:04 >>> GSheets Token expired. Last login at 1585375074.1876523
+2020-03-28 10:38:09 >>> GSheets Token expired. Last login at 1585379044.7839453
+2020-03-28 14:11:39 >>> GSheets Token expired. Last login at 1585391889.9945338
+2020-03-28 17:27:54 >>> GSheets Token expired. Last login at 1585404699.0833325
+2020-03-28 18:47:12 >>> GSheets Token expired. Last login at 1585416474.2268534
+2020-03-28 19:47:20 >>> GSheets Token expired. Last login at 1585421232.6613417
+2020-03-28 20:49:23 >>> GSheets Token expired. Last login at 1585424840.453725
+2020-03-28 20:53:19 >>> '$poll' command called
+2020-03-28 20:53:23 >>> Command Succesfull
+2020-03-28 22:38:00 >>> GSheets Token expired. Last login at 1585428564.0137882
+2020-03-28 23:45:19 >>> GSheets Token expired. Last login at 1585435080.2639651
+2020-03-29 02:33:00 >>> GSheets Token expired. Last login at 1585439119.9795587
+2020-03-29 04:07:55 >>> GSheets Token expired. Last login at 1585449180.2978957
+2020-03-29 06:42:55 >>> GSheets Token expired. Last login at 1585454875.9632268
+2020-03-29 07:59:08 >>> GSheets Token expired. Last login at 1585464175.2981977
+2020-03-29 09:08:04 >>> GSheets Token expired. Last login at 1585468748.1307778
+2020-03-29 09:45:44 >>> '$honstatus' command called
+2020-03-29 09:45:45 >>> Command failed, couldnt find user
+2020-03-29 09:46:04 >>> '$honstatus' command called
+2020-03-29 09:46:06 >>> Collected Cell Values
+2020-03-29 09:46:06 >>> Command Succesfull
+2020-03-29 10:02:34 >>> '$honstatus' command called
+2020-03-29 10:02:36 >>> Collected Cell Values
+2020-03-29 10:02:36 >>> Command Succesfull
+2020-03-29 10:11:21 >>> GSheets Token expired. Last login at 1585472884.9486742
+2020-03-29 11:25:51 >>> GSheets Token expired. Last login at 1585476681.9255722
+2020-03-29 14:12:56 >>> GSheets Token expired. Last login at 1585481151.711931
+2020-03-29 16:05:24 >>> GSheets Token expired. Last login at 1585491176.3600154
+2020-03-29 17:39:12 >>> GSheets Token expired. Last login at 1585497924.0877497
+2020-03-29 17:39:12 >>> '$poll' command called
+2020-03-29 17:39:16 >>> Command Succesfull
+2020-03-29 17:39:55 >>> '$poll' command called
+2020-03-29 17:39:59 >>> Command Succesfull
+2020-03-29 18:39:32 >>> GSheets Token expired. Last login at 1585503552.8685558
+2020-03-29 20:03:27 >>> GSheets Token expired. Last login at 1585507172.2634838
+2020-03-29 21:22:57 >>> GSheets Token expired. Last login at 1585512207.9486213
+2020-03-29 22:13:31 >>> '$help' command called
+2020-03-29 22:13:32 >>> Command Succesfull
+2020-03-29 22:15:15 >>> '$help' command called
+2020-03-29 22:15:16 >>> Command Succesfull
+2020-03-29 22:15:23 >>> '$honstatus' command called
+2020-03-29 22:15:25 >>> Command failed, couldnt find user
+2020-03-29 22:16:45 >>> '$help' command called
+2020-03-29 22:16:45 >>> Command Succesfull
+2020-03-29 22:17:25 >>> '$comradeshiplevel' command called
+2020-03-29 22:17:33 >>> Command Succesfull
+2020-03-29 22:17:42 >>> '$comradeshiplevel' command called
+2020-03-29 22:17:42 >>> '$comradeshiplevel' command called
+2020-03-29 22:17:43 >>> Command failed, couldnt find username
+2020-03-29 22:17:43 >>> Command failed, couldnt find username
+2020-03-29 22:17:45 >>> '$comradeshiplevel' command called
+2020-03-29 22:17:48 >>> Command Succesfull
+2020-03-29 22:22:59 >>> GSheets Token expired. Last login at 1585516977.6623666
+2020-03-29 23:22:04 >>> '$comradeshiplevel' command called
+2020-03-29 23:22:06 >>> Command failed, couldnt find username
+2020-03-29 23:31:32 >>> GSheets Token expired. Last login at 1585520579.4815047
+2020-03-30 00:32:46 >>> GSheets Token expired. Last login at 1585524692.4115539
+2020-03-30 01:33:58 >>> GSheets Token expired. Last login at 1585528366.2220597
+2020-03-30 02:37:32 >>> GSheets Token expired. Last login at 1585532039.025768
+2020-03-30 03:44:54 >>> GSheets Token expired. Last login at 1585535852.9974804
+2020-03-30 03:55:29 >>> '$honstatus' command called
+2020-03-30 03:55:31 >>> Collected Cell Values
+2020-03-30 03:55:31 >>> Command Succesfull
+2020-03-30 04:57:56 >>> GSheets Token expired. Last login at 1585539894.538199
+2020-03-30 09:37:25 >>> GSheets Token expired. Last login at 1585544276.4606385
+2020-03-30 13:44:08 >>> GSheets Token expired. Last login at 1585561045.4101942
+2020-03-30 14:44:08 >>> GSheets Token expired. Last login at 1585575848.4207325
+2020-03-30 15:40:05 >>> '$honupdate' command called
+2020-03-30 15:40:10 >>> Command Succesfull
+2020-03-30 15:45:07 >>> GSheets Token expired. Last login at 1585579448.184519
+2020-03-30 18:22:48 >>> GSheets Token expired. Last login at 1585583107.3820417
+2020-03-30 19:22:48 >>> GSheets Token expired. Last login at 1585592568.9448822
+2020-03-30 20:40:33 >>> GSheets Token expired. Last login at 1585596168.413949
+2020-03-30 21:51:23 >>> GSheets Token expired. Last login at 1585600833.46228
+2020-03-30 21:55:08 >>> '$poll' command called
+2020-03-30 21:55:45 >>> '$poll' command called
+2020-03-30 21:55:47 >>> Command Succesfull
+2020-03-30 21:56:18 >>> '$poll' command called
+2020-03-30 21:56:21 >>> Command Succesfull
+2020-03-30 21:59:19 >>> '$poll' command called
+2020-03-30 21:59:19 >>> Command Succesfull
+2020-03-30 22:01:42 >>> '$poll' command called
+2020-03-30 22:01:44 >>> Command Succesfull
+2020-03-30 22:51:51 >>> GSheets Token expired. Last login at 1585605083.1220858
+2020-03-31 00:24:08 >>> GSheets Token expired. Last login at 1585608711.9421086
+2020-03-31 01:35:01 >>> GSheets Token expired. Last login at 1585614248.9826596
+2020-03-31 03:07:53 >>> GSheets Token expired. Last login at 1585618501.9500492
+2020-03-31 04:30:24 >>> GSheets Token expired. Last login at 1585624073.448538
+2020-03-31 05:41:24 >>> GSheets Token expired. Last login at 1585629024.116541
+2020-03-31 12:09:02 >>> GSheets Token expired. Last login at 1585633284.5873065
+2020-03-31 14:51:36 >>> GSheets Token expired. Last login at 1585656542.5885026
+2020-03-31 16:01:43 >>> GSheets Token expired. Last login at 1585666296.7161481
+2020-03-31 17:03:09 >>> GSheets Token expired. Last login at 1585670503.5738263
+2020-03-31 18:14:40 >>> GSheets Token expired. Last login at 1585674189.884526
+2020-03-31 19:18:23 >>> GSheets Token expired. Last login at 1585678480.3082855
+2020-03-31 20:20:31 >>> GSheets Token expired. Last login at 1585682303.1134434
+2020-03-31 21:57:41 >>> GSheets Token expired. Last login at 1585686031.0923712
+2020-03-31 23:30:51 >>> GSheets Token expired. Last login at 1585691861.9780562
+2020-04-01 01:34:29 >>> GSheets Token expired. Last login at 1585697451.1472204
+2020-04-01 04:15:53 >>> GSheets Token expired. Last login at 1585704869.9338274
+2020-04-01 05:54:01 >>> GSheets Token expired. Last login at 1585714553.6578176
+2020-04-01 08:35:56 >>> GSheets Token expired. Last login at 1585720441.7734897
+2020-04-01 09:50:09 >>> GSheets Token expired. Last login at 1585730156.334241
+2020-04-01 11:19:59 >>> GSheets Token expired. Last login at 1585734610.022321
+2020-04-01 12:41:25 >>> GSheets Token expired. Last login at 1585739999.190503
+2020-04-01 15:25:26 >>> GSheets Token expired. Last login at 1585744885.320166
+2020-04-01 16:25:46 >>> GSheets Token expired. Last login at 1585754726.8236988
+2020-04-01 17:26:47 >>> GSheets Token expired. Last login at 1585758346.2002993
+2020-04-01 19:06:24 >>> GSheets Token expired. Last login at 1585762007.112441
+2020-04-01 20:11:17 >>> GSheets Token expired. Last login at 1585767984.967667
+2020-04-01 21:29:21 >>> GSheets Token expired. Last login at 1585771877.1677246
+2020-04-01 23:36:23 >>> GSheets Token expired. Last login at 1585776562.0368326
+2020-04-02 02:56:21 >>> GSheets Token expired. Last login at 1585784183.6532605
+2020-04-02 03:01:30 >>> '$honstatus' command called
+2020-04-02 03:01:34 >>> Collected Cell Values
+2020-04-02 03:01:34 >>> Command Succesfull
+2020-04-02 10:54:28 >>> GSheets Token expired. Last login at 1585796181.1477213
+2020-04-02 16:09:27 >>> GSheets Token expired. Last login at 1585824868.6871488
+2020-04-02 17:09:44 >>> GSheets Token expired. Last login at 1585843767.3542662
+2020-04-02 18:13:17 >>> GSheets Token expired. Last login at 1585847384.5912404
+2020-04-02 19:42:29 >>> GSheets Token expired. Last login at 1585851197.1269796
+2020-04-02 20:13:00 >>> '$poll' command called
+2020-04-02 20:13:02 >>> Command Succesfull
+2020-04-02 20:18:15 >>> '$poll' command called
+2020-04-02 20:18:19 >>> Command Succesfull
+2020-04-02 21:54:41 >>> GSheets Token expired. Last login at 1585856549.7910345
+2020-04-02 22:57:01 >>> GSheets Token expired. Last login at 1585864481.6900978
+2020-04-03 00:29:43 >>> GSheets Token expired. Last login at 1585868221.6944022
+2020-04-03 02:11:20 >>> GSheets Token expired. Last login at 1585873783.4561653
+2020-04-03 02:11:31 >>> '$poll' command called
+2020-04-03 02:11:50 >>> '$poll' command called
+2020-04-03 02:49:53 >>> We have logged in as RedBot#1433, setup complete
+2020-04-03 03:20:50 >>> GSheets Token expired. Last login at 1585879880.6465156
+2020-04-03 04:56:17 >>> GSheets Token expired. Last login at 1585884050.093174
+2020-04-03 06:24:30 >>> We have logged in as RedBot#1433, setup complete
+2020-04-03 09:47:15 >>> We have logged in as RedBot#1433, setup complete
+2020-04-03 09:52:36 >>> GSheets Token expired. Last login at 1585889777.594251
+2020-04-03 11:40:03 >>> We have logged in as RedBot#1433, setup complete
+2020-04-03 11:55:46 >>> GSheets Token expired. Last login at 1585907556.8800547
+2020-04-03 13:38:47 >>> GSheets Token expired. Last login at 1585914946.506999
+2020-04-03 13:39:32 >>> '$honregister' command called
+2020-04-03 13:39:35 >>> Command Succesfull
+2020-04-03 14:39:38 >>> GSheets Token expired. Last login at 1585921127.8106055
+2020-04-03 15:20:13 >>> We have logged in as RedBot#1433, setup complete
+2020-04-03 16:54:20 >>> We have logged in as RedBot#1433, setup complete
+2020-04-03 18:06:37 >>> GSheets Token expired. Last login at 1585924778.180281
+2020-04-03 18:55:53 >>> We have logged in as RedBot#1433, setup complete
+2020-04-03 19:31:49 >>> GSheets Token expired. Last login at 1585937197.3009958
+2020-04-03 19:34:21 >>> We have logged in as RedBot#1433, setup complete
+2020-04-03 20:38:58 >>> We have logged in as RedBot#1433, setup complete
+2020-04-03 21:16:43 >>> GSheets Token expired. Last login at 1585942309.560888
+2020-04-03 21:21:15 >>> We have logged in as RedBot#1433, setup complete
+2020-04-03 22:58:08 >>> GSheets Token expired. Last login at 1585948603.4813561
+2020-04-03 23:47:56 >>> '$honregister' command called
+2020-04-03 23:47:58 >>> Command Succesfull
+2020-04-04 01:02:18 >>> We have logged in as RedBot#1433, setup complete
+2020-04-04 02:58:47 >>> GSheets Token expired. Last login at 1585954688.2784586
+2020-04-04 03:15:31 >>> '$poll' command called
+2020-04-04 03:15:35 >>> Command Succesfull
+2020-04-04 03:22:05 >>> We have logged in as RedBot#1433, setup complete
+2020-04-04 05:13:45 >>> We have logged in as RedBot#1433, setup complete
+2020-04-04 06:38:24 >>> GSheets Token expired. Last login at 1585969128.0481353
+2020-04-04 07:02:30 >>> We have logged in as RedBot#1433, setup complete
+2020-04-04 09:11:33 >>> We have logged in as RedBot#1433, setup complete
+2020-04-04 12:09:48 >>> GSheets Token expired. Last login at 1585982304.9821074
+2020-04-04 12:22:18 >>> We have logged in as RedBot#1433, setup complete
+2020-04-04 13:44:19 >>> We have logged in as RedBot#1433, setup complete
+2020-04-04 17:13:51 >>> We have logged in as RedBot#1433, setup complete
+2020-04-04 17:24:38 >>> GSheets Token expired. Last login at 1586002188.5159032
+2020-04-04 18:36:35 >>> GSheets Token expired. Last login at 1586021078.816718
+2020-04-04 19:43:40 >>> GSheets Token expired. Last login at 1586025395.831704
+2020-04-04 20:46:51 >>> GSheets Token expired. Last login at 1586029420.2769642
+2020-04-04 21:10:33 >>> We have logged in as RedBot#1433, setup complete
+2020-04-04 22:38:34 >>> GSheets Token expired. Last login at 1586033211.3534172
+2020-04-05 00:02:47 >>> GSheets Token expired. Last login at 1586039914.1406407
+2020-04-05 01:02:26 >>> We have logged in as RedBot#1433, setup complete
+2020-04-05 01:21:58 >>> GSheets Token expired. Last login at 1586044968.041417
+2020-04-05 02:23:28 >>> GSheets Token expired. Last login at 1586049718.1597602
+2020-04-05 03:37:57 >>> We have logged in as RedBot#1433, setup complete
+2020-04-05 04:35:41 >>> GSheets Token expired. Last login at 1586053408.5356627
+2020-04-05 04:46:46 >>> We have logged in as RedBot#1433, setup complete
+2020-04-05 05:40:21 >>> We have logged in as RedBot#1433, setup complete
+2020-04-05 06:07:28 >>> GSheets Token expired. Last login at 1586061341.3929899
+2020-04-05 07:21:08 >>> We have logged in as RedBot#1433, setup complete
+2020-04-05 08:01:01 >>> We have logged in as RedBot#1433, setup complete
+2020-04-05 08:34:30 >>> We have logged in as RedBot#1433, setup complete
+2020-04-05 09:15:30 >>> We have logged in as RedBot#1433, setup complete
+2020-04-05 10:40:38 >>> GSheets Token expired. Last login at 1586066848.1082342
+2020-04-05 11:25:25 >>> We have logged in as RedBot#1433, setup complete
+2020-04-05 13:36:03 >>> GSheets Token expired. Last login at 1586083238.9869406
+2020-04-05 13:55:38 >>> We have logged in as RedBot#1433, setup complete
+2020-04-05 14:47:49 >>> GSheets Token expired. Last login at 1586093763.218778
+2020-04-05 17:35:12 >>> We have logged in as RedBot#1433, setup complete
+2020-04-05 18:17:34 >>> GSheets Token expired. Last login at 1586098069.0741773
+2020-04-05 19:00:59 >>> '$poll' command called
+2020-04-05 19:00:59 >>> Command Succesfull
+2020-04-05 19:18:58 >>> GSheets Token expired. Last login at 1586110654.8978865
+2020-04-05 20:53:45 >>> We have logged in as RedBot#1433, setup complete
+2020-04-05 21:13:08 >>> GSheets Token expired. Last login at 1586114338.9103534
+2020-04-05 21:59:00 >>> We have logged in as RedBot#1433, setup complete
+2020-04-05 22:22:33 >>> GSheets Token expired. Last login at 1586121188.767897
+2020-04-06 00:27:50 >>> GSheets Token expired. Last login at 1586125353.2816205
+2020-04-06 00:42:15 >>> We have logged in as RedBot#1433, setup complete
+2020-04-06 01:16:27 >>> We have logged in as RedBot#1433, setup complete
+2020-04-06 04:29:20 >>> We have logged in as RedBot#1433, setup complete
+2020-04-06 05:46:27 >>> We have logged in as RedBot#1433, setup complete
+2020-04-06 06:01:59 >>> We have logged in as RedBot#1433, setup complete
+2020-04-06 07:38:47 >>> We have logged in as RedBot#1433, setup complete
+2020-04-06 07:57:36 >>> We have logged in as RedBot#1433, setup complete
+2020-04-06 10:49:22 >>> We have logged in as RedBot#1433, setup complete
+2020-04-06 14:37:22 >>> We have logged in as RedBot#1433, setup complete
+2020-04-06 22:10:38 >>> We have logged in as RedBot#1433, setup complete
+2020-04-06 22:58:48 >>> GSheets Token expired. Last login at 1586132870.102626
+2020-04-07 00:12:07 >>> GSheets Token expired. Last login at 1586213928.5959551
+2020-04-07 01:31:12 >>> GSheets Token expired. Last login at 1586218328.007257
+2020-04-07 02:02:36 >>> We have logged in as RedBot#1433, setup complete
+2020-04-07 02:47:01 >>> We have logged in as RedBot#1433, setup complete
+2020-04-07 06:13:56 >>> We have logged in as RedBot#1433, setup complete
+2020-04-07 09:08:54 >>> We have logged in as RedBot#1433, setup complete
+2020-04-07 12:16:14 >>> GSheets Token expired. Last login at 1586223072.6977677
+2020-04-07 12:20:14 >>> We have logged in as RedBot#1433, setup complete
+2020-04-07 12:44:03 >>> We have logged in as RedBot#1433, setup complete
+2020-04-07 16:10:18 >>> We have logged in as RedBot#1433, setup complete
+2020-04-07 16:55:29 >>> GSheets Token expired. Last login at 1586261774.7923388
+2020-04-07 18:02:14 >>> GSheets Token expired. Last login at 1586278529.1063123
+2020-04-07 19:08:25 >>> GSheets Token expired. Last login at 1586282534.5530062
+2020-04-07 19:51:02 >>> We have logged in as RedBot#1433, setup complete
+2020-04-07 20:31:23 >>> GSheets Token expired. Last login at 1586286505.319972
+2020-04-07 20:32:06 >>> '$poll' command called
+2020-04-07 20:32:08 >>> Command Succesfull
+2020-04-07 20:35:25 >>> '$poll' command called
+2020-04-07 20:35:30 >>> Command Succesfull
+2020-04-07 20:41:13 >>> '$poll' command called
+2020-04-07 20:41:16 >>> Command Succesfull
+2020-04-07 20:41:27 >>> '$poll' command called
+2020-04-07 20:41:32 >>> Command Succesfull
+2020-04-07 21:36:20 >>> GSheets Token expired. Last login at 1586291483.525367
+2020-04-07 22:12:18 >>> We have logged in as RedBot#1433, setup complete
+2020-04-07 22:45:00 >>> GSheets Token expired. Last login at 1586295380.5702927
+2020-04-07 23:54:38 >>> GSheets Token expired. Last login at 1586299500.5316572
+2020-04-08 00:54:38 >>> We have logged in as RedBot#1433, setup complete
+2020-04-08 08:27:54 >>> We have logged in as RedBot#1433, setup complete
+2020-04-08 09:07:35 >>> We have logged in as RedBot#1433, setup complete
+2020-04-08 13:22:03 >>> We have logged in as RedBot#1433, setup complete
+2020-04-08 16:27:16 >>> We have logged in as RedBot#1433, setup complete
+2020-04-08 17:19:02 >>> We have logged in as RedBot#1433, setup complete
+2020-04-08 19:54:37 >>> We have logged in as RedBot#1433, setup complete
+2020-04-08 23:25:07 >>> GSheets Token expired. Last login at 1586303679.0062914
+2020-04-09 02:54:12 >>> We have logged in as RedBot#1433, setup complete
+2020-04-09 06:19:29 >>> GSheets Token expired. Last login at 1586388307.803449
+2020-04-09 06:46:25 >>> We have logged in as RedBot#1433, setup complete
+2020-04-09 07:29:20 >>> GSheets Token expired. Last login at 1586413169.6327553
+2020-04-09 09:27:59 >>> We have logged in as RedBot#1433, setup complete
+2020-04-09 09:49:35 >>> We have logged in as RedBot#1433, setup complete
+2020-04-09 10:46:32 >>> GSheets Token expired. Last login at 1586417360.8812993
+2020-04-09 12:18:07 >>> We have logged in as RedBot#1433, setup complete
+2020-04-09 12:52:02 >>> We have logged in as RedBot#1433, setup complete
+2020-04-09 14:32:17 >>> We have logged in as RedBot#1433, setup complete
+2020-04-09 18:07:05 >>> We have logged in as RedBot#1433, setup complete
+2020-04-09 18:25:11 >>> GSheets Token expired. Last login at 1586429192.6588128
+2020-04-09 20:33:56 >>> GSheets Token expired. Last login at 1586456711.9839728
+2020-04-09 20:58:32 >>> We have logged in as RedBot#1433, setup complete
+2020-04-09 23:16:40 >>> GSheets Token expired. Last login at 1586464436.9577003
+2020-04-10 02:25:46 >>> We have logged in as RedBot#1433, setup complete
+2020-04-10 03:26:38 >>> GSheets Token expired. Last login at 1586474200.055135
+2020-04-10 04:58:36 >>> GSheets Token expired. Last login at 1586489198.4240963
+2020-04-10 07:34:28 >>> GSheets Token expired. Last login at 1586494716.5921807
+2020-04-10 08:54:11 >>> We have logged in as RedBot#1433, setup complete
+2020-04-10 11:25:05 >>> We have logged in as RedBot#1433, setup complete
+2020-04-10 13:50:58 >>> GSheets Token expired. Last login at 1586504068.779482
+2020-04-10 14:36:18 >>> We have logged in as RedBot#1433, setup complete
+2020-04-10 15:04:27 >>> GSheets Token expired. Last login at 1586526658.8682296
+2020-04-10 15:50:26 >>> We have logged in as RedBot#1433, setup complete
+2020-04-10 17:06:27 >>> We have logged in as RedBot#1433, setup complete
+2020-04-10 17:07:33 >>> GSheets Token expired. Last login at 1586531067.4883883
+2020-04-10 20:18:35 >>> We have logged in as RedBot#1433, setup complete
+2020-04-10 20:45:42 >>> GSheets Token expired. Last login at 1586538453.5856798
+2020-04-10 21:03:26 >>> We have logged in as RedBot#1433, setup complete
+2020-04-10 21:19:55 >>> We have logged in as RedBot#1433, setup complete
+2020-04-10 21:40:48 >>> '$honregister' command called
+2020-04-10 21:40:50 >>> Command Succesfull
+2020-04-10 22:09:47 >>> We have logged in as RedBot#1433, setup complete
+2020-04-10 22:37:18 >>> GSheets Token expired. Last login at 1586551542.791011
+2020-04-10 23:58:06 >>> GSheets Token expired. Last login at 1586558238.9682786
+2020-04-11 01:05:40 >>> GSheets Token expired. Last login at 1586563086.2159214
+2020-04-11 02:39:48 >>> We have logged in as RedBot#1433, setup complete
+2020-04-11 04:07:32 >>> GSheets Token expired. Last login at 1586567140.359408
+2020-04-11 05:37:44 >>> We have logged in as RedBot#1433, setup complete
+2020-04-11 09:12:56 >>> We have logged in as RedBot#1433, setup complete
+2020-04-11 10:03:19 >>> GSheets Token expired. Last login at 1586578052.2770038
+2020-04-11 10:14:56 >>> We have logged in as RedBot#1433, setup complete
+2020-04-11 12:36:40 >>> We have logged in as RedBot#1433, setup complete
+2020-04-11 13:07:25 >>> We have logged in as RedBot#1433, setup complete
+2020-04-11 14:19:05 >>> GSheets Token expired. Last login at 1586599399.9207876
+2020-04-11 14:19:25 >>> We have logged in as RedBot#1433, setup complete
+2020-04-11 15:19:15 >>> GSheets Token expired. Last login at 1586614746.0226867
+2020-04-11 16:34:47 >>> We have logged in as RedBot#1433, setup complete
+2020-04-11 18:06:09 >>> We have logged in as RedBot#1433, setup complete
+2020-04-11 18:26:46 >>> GSheets Token expired. Last login at 1586618355.5894587
+2020-04-11 19:27:49 >>> GSheets Token expired. Last login at 1586629606.5691159
+2020-04-11 20:34:57 >>> We have logged in as RedBot#1433, setup complete
+2020-04-11 21:39:37 >>> GSheets Token expired. Last login at 1586633269.0707884
+2020-04-11 22:09:30 >>> '$poll' command called
+2020-04-11 22:41:47 >>> We have logged in as RedBot#1433, setup complete
+2020-04-12 01:02:10 >>> We have logged in as RedBot#1433, setup complete
+2020-04-12 01:18:12 >>> We have logged in as RedBot#1433, setup complete
+2020-04-12 01:48:28 >>> We have logged in as RedBot#1433, setup complete
+2020-04-12 04:09:37 >>> We have logged in as RedBot#1433, setup complete
+2020-04-12 05:34:57 >>> We have logged in as RedBot#1433, setup complete
+2020-04-12 06:14:48 >>> We have logged in as RedBot#1433, setup complete
+2020-04-12 07:32:32 >>> GSheets Token expired. Last login at 1586641177.1791015
+2020-04-12 07:36:58 >>> We have logged in as RedBot#1433, setup complete
+2020-04-12 08:38:38 >>> GSheets Token expired. Last login at 1586676752.7742007
+2020-04-12 08:41:58 >>> We have logged in as RedBot#1433, setup complete
+2020-04-12 09:28:35 >>> We have logged in as RedBot#1433, setup complete
+2020-04-12 11:57:49 >>> We have logged in as RedBot#1433, setup complete
+2020-04-12 13:34:32 >>> We have logged in as RedBot#1433, setup complete
+2020-04-12 15:01:40 >>> We have logged in as RedBot#1433, setup complete
+2020-04-12 15:26:51 >>> We have logged in as RedBot#1433, setup complete
+2020-04-12 15:36:12 >>> GSheets Token expired. Last login at 1586680718.9142408
+2020-04-12 15:59:27 >>> We have logged in as RedBot#1433, setup complete
+2020-04-12 17:22:49 >>> We have logged in as RedBot#1433, setup complete
+2020-04-12 19:34:32 >>> We have logged in as RedBot#1433, setup complete
+2020-04-12 22:53:48 >>> We have logged in as RedBot#1433, setup complete
+2020-04-12 23:32:23 >>> We have logged in as RedBot#1433, setup complete
+2020-04-13 00:29:52 >>> We have logged in as RedBot#1433, setup complete
+2020-04-13 00:32:47 >>> GSheets Token expired. Last login at 1586705772.5580602
+2020-04-13 01:38:07 >>> GSheets Token expired. Last login at 1586737967.9638112
+2020-04-13 02:38:14 >>> GSheets Token expired. Last login at 1586741887.2238567
+2020-04-13 03:08:08 >>> '$poll' command called
+2020-04-13 03:41:54 >>> GSheets Token expired. Last login at 1586745494.8402112
+2020-04-13 03:42:05 >>> We have logged in as RedBot#1433, setup complete
+2020-04-13 04:32:07 >>> We have logged in as RedBot#1433, setup complete
+2020-04-13 04:57:43 >>> GSheets Token expired. Last login at 1586749314.0633762
+2020-04-13 06:03:11 >>> We have logged in as RedBot#1433, setup complete
+2020-04-13 08:23:10 >>> We have logged in as RedBot#1433, setup complete
+2020-04-13 09:11:17 >>> We have logged in as RedBot#1433, setup complete
+2020-04-13 12:10:07 >>> GSheets Token expired. Last login at 1586753863.3745353
+2020-04-13 12:48:27 >>> We have logged in as RedBot#1433, setup complete
+2020-04-13 13:19:42 >>> GSheets Token expired. Last login at 1586779807.758406
+2020-04-13 14:34:14 >>> GSheets Token expired. Last login at 1586783982.6895902
+2020-04-13 15:43:38 >>> GSheets Token expired. Last login at 1586788454.5781767
+2020-04-13 16:09:26 >>> We have logged in as RedBot#1433, setup complete
+2020-04-13 16:47:39 >>> GSheets Token expired. Last login at 1586792618.698845
+2020-04-13 18:08:54 >>> GSheets Token expired. Last login at 1586796459.2893965
+2020-04-13 19:09:18 >>> GSheets Token expired. Last login at 1586801334.5151887
+2020-04-13 19:12:09 >>> We have logged in as RedBot#1433, setup complete
+2020-04-13 20:37:51 >>> We have logged in as RedBot#1433, setup complete
+2020-04-13 22:48:51 >>> GSheets Token expired. Last login at 1586804958.928976
+2020-04-13 23:49:53 >>> GSheets Token expired. Last login at 1586818131.3642151
+2020-04-14 00:25:43 >>> We have logged in as RedBot#1433, setup complete
+2020-04-14 02:26:20 >>> GSheets Token expired. Last login at 1586821793.1036255
+2020-04-14 03:12:34 >>> We have logged in as RedBot#1433, setup complete
+2020-04-14 07:09:40 >>> We have logged in as RedBot#1433, setup complete
+2020-04-14 07:38:17 >>> We have logged in as RedBot#1433, setup complete
+2020-04-14 09:57:24 >>> We have logged in as RedBot#1433, setup complete
+2020-04-14 10:03:02 >>> GSheets Token expired. Last login at 1586831180.4508777
+2020-04-14 11:31:27 >>> GSheets Token expired. Last login at 1586858582.4604232
+2020-04-14 12:06:42 >>> We have logged in as RedBot#1433, setup complete
+2020-04-14 16:01:54 >>> We have logged in as RedBot#1433, setup complete
+2020-04-14 17:03:13 >>> We have logged in as RedBot#1433, setup complete
+2020-04-14 17:35:22 >>> We have logged in as RedBot#1433, setup complete
+2020-04-14 19:28:00 >>> We have logged in as RedBot#1433, setup complete
+2020-04-14 19:31:12 >>> GSheets Token expired. Last login at 1586863887.1299448
+2020-04-14 20:36:20 >>> GSheets Token expired. Last login at 1586892672.473992
+2020-04-14 21:37:00 >>> GSheets Token expired. Last login at 1586896580.125642
+2020-04-14 22:52:42 >>> We have logged in as RedBot#1433, setup complete
+2020-04-14 23:03:11 >>> GSheets Token expired. Last login at 1586900220.7961369
+2020-04-15 00:31:22 >>> We have logged in as RedBot#1433, setup complete
+2020-04-15 03:35:51 >>> We have logged in as RedBot#1433, setup complete
+2020-04-15 04:34:54 >>> GSheets Token expired. Last login at 1586905391.8270874
+2020-04-15 05:43:46 >>> GSheets Token expired. Last login at 1586925294.671029
+2020-04-15 06:40:56 >>> We have logged in as RedBot#1433, setup complete
+2020-04-15 07:07:25 >>> GSheets Token expired. Last login at 1586929426.0811656
+2020-04-15 11:36:40 >>> GSheets Token expired. Last login at 1586934445.1753871
+2020-04-15 12:37:26 >>> GSheets Token expired. Last login at 1586950600.9628994
+2020-04-15 13:43:44 >>> GSheets Token expired. Last login at 1586954246.970386
+2020-04-15 14:48:30 >>> GSheets Token expired. Last login at 1586958224.4566896
+2020-04-15 15:49:28 >>> GSheets Token expired. Last login at 1586962110.708102
+2020-04-15 16:49:19 >>> We have logged in as RedBot#1433, setup complete
+2020-04-15 17:15:38 >>> GSheets Token expired. Last login at 1586965768.3483667
+2020-04-15 19:41:59 >>> We have logged in as RedBot#1433, setup complete
+2020-04-15 20:09:14 >>> GSheets Token expired. Last login at 1586970938.1302848
+2020-04-15 22:51:49 >>> GSheets Token expired. Last login at 1586981354.9709198
+2020-04-15 23:20:39 >>> We have logged in as RedBot#1433, setup complete
+2020-04-15 23:53:47 >>> GSheets Token expired. Last login at 1586991109.9248385
+2020-04-16 01:11:34 >>> We have logged in as RedBot#1433, setup complete
+2020-04-16 02:53:54 >>> We have logged in as RedBot#1433, setup complete
+2020-04-16 06:27:47 >>> We have logged in as RedBot#1433, setup complete
+2020-04-16 08:34:49 >>> We have logged in as RedBot#1433, setup complete
+2020-04-16 10:52:17 >>> We have logged in as RedBot#1433, setup complete
+2020-04-16 14:14:17 >>> GSheets Token expired. Last login at 1586994827.194518
+2020-04-16 14:46:00 >>> We have logged in as RedBot#1433, setup complete
+2020-04-16 16:58:47 >>> GSheets Token expired. Last login at 1587046457.4056447
+2020-04-16 18:15:00 >>> We have logged in as RedBot#1433, setup complete
+2020-04-16 19:04:18 >>> GSheets Token expired. Last login at 1587056328.0212946
+2020-04-16 20:04:37 >>> GSheets Token expired. Last login at 1587063858.5378566
+2020-04-16 21:38:38 >>> We have logged in as RedBot#1433, setup complete
+2020-04-16 22:12:46 >>> GSheets Token expired. Last login at 1587067477.7122107
+2020-04-17 00:04:28 >>> We have logged in as RedBot#1433, setup complete
+2020-04-17 00:43:52 >>> GSheets Token expired. Last login at 1587075167.009808
+2020-04-17 02:42:54 >>> We have logged in as RedBot#1433, setup complete
+2020-04-17 04:04:35 >>> We have logged in as RedBot#1433, setup complete
+2020-04-17 04:57:08 >>> We have logged in as RedBot#1433, setup complete
+2020-04-17 07:22:05 >>> GSheets Token expired. Last login at 1587084232.6396341
+2020-04-17 08:40:05 >>> We have logged in as RedBot#1433, setup complete
+2020-04-17 09:36:17 >>> GSheets Token expired. Last login at 1587108125.8144135
+2020-04-17 10:07:49 >>> We have logged in as RedBot#1433, setup complete
+2020-04-17 11:14:17 >>> We have logged in as RedBot#1433, setup complete
+2020-04-17 11:44:04 >>> We have logged in as RedBot#1433, setup complete
+2020-04-17 15:21:49 >>> We have logged in as RedBot#1433, setup complete
+2020-04-17 15:51:35 >>> GSheets Token expired. Last login at 1587116177.1264014
+2020-04-17 16:39:16 >>> We have logged in as RedBot#1433, setup complete
+2020-04-17 16:55:55 >>> GSheets Token expired. Last login at 1587138695.5626543
+2020-04-17 18:59:02 >>> GSheets Token expired. Last login at 1587142555.8587706
+2020-04-17 19:11:05 >>> We have logged in as RedBot#1433, setup complete
+2020-04-17 20:09:39 >>> GSheets Token expired. Last login at 1587149942.404756
+2020-04-17 20:30:16 >>> We have logged in as RedBot#1433, setup complete
+2020-04-17 21:27:30 >>> We have logged in as RedBot#1433, setup complete
+2020-04-17 23:24:19 >>> GSheets Token expired. Last login at 1587154179.886138
+2020-04-17 23:38:05 >>> We have logged in as RedBot#1433, setup complete
+2020-04-18 00:29:03 >>> GSheets Token expired. Last login at 1587165859.8820767
+2020-04-18 01:32:46 >>> GSheets Token expired. Last login at 1587169743.3293707
+2020-04-18 02:43:43 >>> We have logged in as RedBot#1433, setup complete
+2020-04-18 02:49:21 >>> GSheets Token expired. Last login at 1587173566.8360558
+2020-04-18 03:31:30 >>> We have logged in as RedBot#1433, setup complete
+2020-04-18 05:59:01 >>> GSheets Token expired. Last login at 1587178161.2494106
+2020-04-18 06:20:10 >>> We have logged in as RedBot#1433, setup complete
+2020-04-18 10:07:46 >>> We have logged in as RedBot#1433, setup complete
+2020-04-18 10:51:04 >>> GSheets Token expired. Last login at 1587189541.423038
+2020-04-18 13:40:47 >>> GSheets Token expired. Last login at 1587207064.872766
+2020-04-18 13:42:33 >>> We have logged in as RedBot#1433, setup complete
+2020-04-18 15:00:59 >>> GSheets Token expired. Last login at 1587217248.0018725
+2020-04-18 16:06:50 >>> GSheets Token expired. Last login at 1587222059.2196434
+2020-04-18 16:29:31 >>> We have logged in as RedBot#1433, setup complete
+2020-04-18 17:33:45 >>> GSheets Token expired. Last login at 1587226010.9427648
+2020-04-18 19:03:46 >>> We have logged in as RedBot#1433, setup complete
+2020-04-18 19:04:06 >>> GSheets Token expired. Last login at 1587231226.0272593
+2020-04-18 20:37:30 >>> GSheets Token expired. Last login at 1587236646.919562
+2020-04-18 22:48:47 >>> GSheets Token expired. Last login at 1587242250.2955813
+2020-04-18 22:58:19 >>> We have logged in as RedBot#1433, setup complete
+2020-04-19 01:58:44 >>> We have logged in as RedBot#1433, setup complete
+2020-04-19 02:25:12 >>> We have logged in as RedBot#1433, setup complete
+2020-04-19 06:00:12 >>> GSheets Token expired. Last login at 1587250127.6089497
+2020-04-19 06:00:26 >>> We have logged in as RedBot#1433, setup complete
+2020-04-19 09:28:25 >>> We have logged in as RedBot#1433, setup complete
+2020-04-19 11:32:35 >>> We have logged in as RedBot#1433, setup complete
+2020-04-19 12:39:52 >>> GSheets Token expired. Last login at 1587276012.630536
+2020-04-19 13:31:02 >>> We have logged in as RedBot#1433, setup complete
+2020-04-19 14:43:16 >>> GSheets Token expired. Last login at 1587299992.8444824
+2020-04-19 15:43:39 >>> GSheets Token expired. Last login at 1587307396.8418593
+2020-04-19 16:36:14 >>> We have logged in as RedBot#1433, setup complete
+2020-04-19 17:35:30 >>> GSheets Token expired. Last login at 1587311019.9988983
+2020-04-19 18:36:17 >>> GSheets Token expired. Last login at 1587317730.3145819
+2020-04-19 18:40:29 >>> We have logged in as RedBot#1433, setup complete
+2020-04-19 19:00:24 >>> We have logged in as RedBot#1433, setup complete
+2020-04-19 20:50:03 >>> GSheets Token expired. Last login at 1587321377.305643
+2020-04-19 21:00:19 >>> We have logged in as RedBot#1433, setup complete
+2020-04-19 22:27:13 >>> GSheets Token expired. Last login at 1587329403.9577613
+2020-04-19 23:06:47 >>> We have logged in as RedBot#1433, setup complete
+2020-04-19 23:33:05 >>> GSheets Token expired. Last login at 1587335233.649169
+2020-04-20 00:32:49 >>> We have logged in as RedBot#1433, setup complete
+2020-04-20 01:49:52 >>> We have logged in as RedBot#1433, setup complete
+2020-04-20 02:45:05 >>> We have logged in as RedBot#1433, setup complete
+2020-04-20 06:02:37 >>> We have logged in as RedBot#1433, setup complete
+2020-04-20 07:46:22 >>> We have logged in as RedBot#1433, setup complete
+2020-04-20 07:54:07 >>> GSheets Token expired. Last login at 1587339185.1009634
+2020-04-20 09:12:13 >>> We have logged in as RedBot#1433, setup complete
+2020-04-20 10:20:24 >>> GSheets Token expired. Last login at 1587369247.1024244
+2020-04-20 11:19:20 >>> We have logged in as RedBot#1433, setup complete
+2020-04-20 12:09:24 >>> We have logged in as RedBot#1433, setup complete
+2020-04-20 15:35:03 >>> We have logged in as RedBot#1433, setup complete
+2020-04-20 15:57:29 >>> We have logged in as RedBot#1433, setup complete
+2020-04-20 16:37:30 >>> We have logged in as RedBot#1433, setup complete
+2020-04-20 18:18:43 >>> GSheets Token expired. Last login at 1587378024.8248494
+2020-04-20 19:40:29 >>> GSheets Token expired. Last login at 1587406723.2709987
+2020-04-20 21:38:09 >>> We have logged in as RedBot#1433, setup complete
+2020-04-20 21:57:44 >>> GSheets Token expired. Last login at 1587411629.1546168
+2020-04-20 22:29:23 >>> We have logged in as RedBot#1433, setup complete
+2020-04-20 23:42:51 >>> We have logged in as RedBot#1433, setup complete
+2020-04-21 01:39:53 >>> We have logged in as RedBot#1433, setup complete
+2020-04-21 02:13:53 >>> GSheets Token expired. Last login at 1587419864.3591132
+2020-04-21 04:06:08 >>> GSheets Token expired. Last login at 1587435233.3378596
+2020-04-21 05:23:07 >>> We have logged in as RedBot#1433, setup complete
+2020-04-21 09:12:38 >>> We have logged in as RedBot#1433, setup complete
+2020-04-21 09:32:14 >>> We have logged in as RedBot#1433, setup complete
+2020-04-21 10:04:07 >>> We have logged in as RedBot#1433, setup complete
+2020-04-21 10:35:13 >>> We have logged in as RedBot#1433, setup complete
+2020-04-21 13:05:54 >>> We have logged in as RedBot#1433, setup complete
+2020-04-21 13:24:13 >>> We have logged in as RedBot#1433, setup complete
+2020-04-21 16:10:21 >>> GSheets Token expired. Last login at 1587441968.4910657
+2020-04-21 17:11:07 >>> We have logged in as RedBot#1433, setup complete
+2020-04-21 17:52:27 >>> GSheets Token expired. Last login at 1587485421.8424761
+2020-04-21 18:52:28 >>> GSheets Token expired. Last login at 1587491547.5036714
+2020-04-21 19:52:46 >>> GSheets Token expired. Last login at 1587495149.0180757
+2020-04-21 19:55:57 >>> We have logged in as RedBot#1433, setup complete
+2020-04-21 20:25:00 >>> '$poll' command called
+2020-04-21 20:25:54 >>> '$poll' command called
+2020-04-21 20:53:28 >>> GSheets Token expired. Last login at 1587498766.5160835
+2020-04-21 21:17:05 >>> We have logged in as RedBot#1433, setup complete
+2020-04-21 23:10:59 >>> We have logged in as RedBot#1433, setup complete
+2020-04-22 00:17:24 >>> GSheets Token expired. Last login at 1587502408.6134298
+2020-04-22 00:18:04 >>> '$honupdate' command called
+2020-04-22 00:18:14 >>> Command Succesfull
+2020-04-22 00:57:56 >>> We have logged in as RedBot#1433, setup complete
+2020-04-22 01:30:16 >>> GSheets Token expired. Last login at 1587514644.6169543
+2020-04-22 02:46:06 >>> GSheets Token expired. Last login at 1587519016.8962789
+2020-04-22 03:47:57 >>> GSheets Token expired. Last login at 1587523566.5033424
+2020-04-22 04:01:03 >>> We have logged in as RedBot#1433, setup complete
+2020-04-22 05:23:07 >>> GSheets Token expired. Last login at 1587527277.1157207
+2020-04-22 06:18:40 >>> We have logged in as RedBot#1433, setup complete
+2020-04-22 06:41:10 >>> GSheets Token expired. Last login at 1587532987.0525606
+2020-04-22 07:45:38 >>> We have logged in as RedBot#1433, setup complete
+2020-04-22 08:09:41 >>> GSheets Token expired. Last login at 1587537670.556024
+2020-04-22 12:52:30 >>> We have logged in as RedBot#1433, setup complete
+2020-04-22 13:26:57 >>> GSheets Token expired. Last login at 1587542981.3852317
+2020-04-22 13:47:57 >>> We have logged in as RedBot#1433, setup complete
+2020-04-22 14:10:35 >>> We have logged in as RedBot#1433, setup complete
+2020-04-22 16:48:37 >>> We have logged in as RedBot#1433, setup complete
+2020-04-22 17:33:43 >>> GSheets Token expired. Last login at 1587562017.2468865
+2020-04-22 17:53:15 >>> We have logged in as RedBot#1433, setup complete
+2020-04-22 19:45:11 >>> We have logged in as RedBot#1433, setup complete
+2020-04-22 20:19:15 >>> We have logged in as RedBot#1433, setup complete
+2020-04-22 21:43:41 >>> We have logged in as RedBot#1433, setup complete
+2020-04-22 23:08:16 >>> GSheets Token expired. Last login at 1587576824.047219
+2020-04-23 00:08:36 >>> GSheets Token expired. Last login at 1587596896.1658647
+2020-04-23 01:09:25 >>> GSheets Token expired. Last login at 1587600516.7805862
+2020-04-23 01:30:14 >>> We have logged in as RedBot#1433, setup complete
+2020-04-23 02:00:45 >>> We have logged in as RedBot#1433, setup complete
+2020-04-23 02:19:50 >>> GSheets Token expired. Last login at 1587604165.5370402
+2020-04-23 03:06:27 >>> We have logged in as RedBot#1433, setup complete
+2020-04-23 03:45:45 >>> GSheets Token expired. Last login at 1587608390.557947
+2020-04-23 04:47:14 >>> GSheets Token expired. Last login at 1587613545.9757605
+2020-04-23 05:23:02 >>> '$poll' command called
+2020-04-23 07:01:22 >>> We have logged in as RedBot#1433, setup complete
+2020-04-23 07:37:58 >>> GSheets Token expired. Last login at 1587617234.3444207
+2020-04-23 08:27:46 >>> We have logged in as RedBot#1433, setup complete
+2020-04-23 09:30:21 >>> We have logged in as RedBot#1433, setup complete
+2020-04-23 09:47:08 >>> We have logged in as RedBot#1433, setup complete
+2020-04-23 10:02:36 >>> GSheets Token expired. Last login at 1587627479.0325851
+2020-04-23 11:38:51 >>> GSheets Token expired. Last login at 1587636156.711543
+2020-04-23 11:38:51 >>> '$poll' command called
+2020-04-23 11:56:20 >>> We have logged in as RedBot#1433, setup complete
+2020-04-23 14:59:20 >>> We have logged in as RedBot#1433, setup complete
+2020-04-23 14:59:50 >>> GSheets Token expired. Last login at 1587641931.9514875
+2020-04-23 16:12:09 >>> GSheets Token expired. Last login at 1587653990.3086317
+2020-04-23 16:12:49 >>> '$honregister' command called
+2020-04-23 16:12:52 >>> Command Succesfull
+2020-04-23 16:41:42 >>> We have logged in as RedBot#1433, setup complete
+2020-04-23 17:19:55 >>> GSheets Token expired. Last login at 1587658329.4623091
+2020-04-23 17:48:35 >>> We have logged in as RedBot#1433, setup complete
+2020-04-23 18:25:43 >>> GSheets Token expired. Last login at 1587662395.9088254
+2020-04-23 19:34:00 >>> GSheets Token expired. Last login at 1587666343.9321864
+2020-04-23 20:34:00 >>> GSheets Token expired. Last login at 1587670440.1801336
+2020-04-23 20:47:46 >>> '$dice' command called
+2020-04-23 20:47:47 >>> Command Succesfull, The 420 sided die Landed On a **307**
+2020-04-23 20:47:48 >>> '$dice' command called
+2020-04-23 20:47:49 >>> Command Succesfull, The 420 sided die Landed On a **25**
+2020-04-23 20:47:51 >>> '$dice' command called
+2020-04-23 20:47:51 >>> Command Succesfull, The 420 sided die Landed On a **235**
+2020-04-23 20:47:52 >>> '$dice' command called
+2020-04-23 20:47:52 >>> Command Succesfull, The 420 sided die Landed On a **3**
+2020-04-23 20:47:54 >>> '$dice' command called
+2020-04-23 20:47:54 >>> Command Succesfull, The 420 sided die Landed On a **128**
+2020-04-23 20:47:56 >>> '$dice' command called
+2020-04-23 20:47:56 >>> Command Succesfull, The 420 sided die Landed On a **403**
+2020-04-23 20:47:58 >>> '$dice' command called
+2020-04-23 20:47:58 >>> Command Succesfull, The 420 sided die Landed On a **20**
+2020-04-23 20:48:00 >>> '$dice' command called
+2020-04-23 20:48:00 >>> Command Succesfull, The 420 sided die Landed On a **336**
+2020-04-23 20:48:02 >>> '$dice' command called
+2020-04-23 20:48:02 >>> Command Succesfull, The 420 sided die Landed On a **29**
+2020-04-23 20:48:03 >>> '$dice' command called
+2020-04-23 20:48:03 >>> Command Succesfull, The 420 sided die Landed On a **333**
+2020-04-23 20:48:04 >>> '$dice' command called
+2020-04-23 20:48:05 >>> Command Succesfull, The 420 sided die Landed On a **239**
+2020-04-23 20:48:06 >>> '$dice' command called
+2020-04-23 20:48:06 >>> Command Succesfull, The 420 sided die Landed On a **74**
+2020-04-23 20:48:07 >>> '$dice' command called
+2020-04-23 20:48:08 >>> Command Succesfull, The 420 sided die Landed On a **3**
+2020-04-23 20:48:09 >>> '$dice' command called
+2020-04-23 20:48:09 >>> Command Succesfull, The 420 sided die Landed On a **83**
+2020-04-23 20:48:26 >>> '$dice' command called
+2020-04-23 20:48:27 >>> Command Succesfull, The 420 sided die Landed On a **287**
+2020-04-23 20:48:28 >>> '$dice' command called
+2020-04-23 20:48:28 >>> Command Succesfull, The 420 sided die Landed On a **396**
+2020-04-23 20:48:29 >>> '$dice' command called
+2020-04-23 20:48:30 >>> Command Succesfull, The 420 sided die Landed On a **407**
+2020-04-23 20:48:36 >>> '$dice' command called
+2020-04-23 20:48:37 >>> Command Succesfull, The 420 sided die Landed On a **27**
+2020-04-23 20:48:38 >>> '$dice' command called
+2020-04-23 20:48:38 >>> Command Succesfull, The 420 sided die Landed On a **404**
+2020-04-23 20:48:40 >>> '$dice' command called
+2020-04-23 20:48:40 >>> Command Succesfull, The 420 sided die Landed On a **58**
+2020-04-23 20:48:41 >>> '$dice' command called
+2020-04-23 20:48:41 >>> Command Succesfull, The 420 sided die Landed On a **253**
+2020-04-23 20:48:42 >>> '$dice' command called
+2020-04-23 20:48:43 >>> Command Succesfull, The 420 sided die Landed On a **88**
+2020-04-23 20:48:43 >>> '$dice' command called
+2020-04-23 20:48:44 >>> Command Succesfull, The 420 sided die Landed On a **180**
+2020-04-23 20:48:45 >>> '$dice' command called
+2020-04-23 20:48:45 >>> Command Succesfull, The 420 sided die Landed On a **331**
+2020-04-23 20:48:46 >>> '$dice' command called
+2020-04-23 20:48:46 >>> Command Succesfull, The 420 sided die Landed On a **415**
+2020-04-23 20:48:47 >>> '$dice' command called
+2020-04-23 20:48:48 >>> Command Succesfull, The 420 sided die Landed On a **376**
+2020-04-23 20:48:48 >>> '$dice' command called
+2020-04-23 20:48:49 >>> Command Succesfull, The 420 sided die Landed On a **389**
+2020-04-23 20:48:50 >>> '$dice' command called
+2020-04-23 20:48:50 >>> Command Succesfull, The 420 sided die Landed On a **90**
+2020-04-23 20:48:51 >>> '$dice' command called
+2020-04-23 20:48:52 >>> Command Succesfull, The 420 sided die Landed On a **126**
+2020-04-23 20:48:52 >>> '$dice' command called
+2020-04-23 20:48:53 >>> Command Succesfull, The 420 sided die Landed On a **120**
+2020-04-23 20:48:54 >>> '$dice' command called
+2020-04-23 20:48:54 >>> Command Succesfull, The 420 sided die Landed On a **250**
+2020-04-23 20:48:55 >>> '$dice' command called
+2020-04-23 20:48:56 >>> Command Succesfull, The 420 sided die Landed On a **376**
+2020-04-23 20:48:56 >>> '$dice' command called
+2020-04-23 20:48:57 >>> Command Succesfull, The 420 sided die Landed On a **59**
+2020-04-23 20:48:58 >>> '$dice' command called
+2020-04-23 20:48:58 >>> Command Succesfull, The 420 sided die Landed On a **401**
+2020-04-23 20:48:59 >>> '$dice' command called
+2020-04-23 20:49:00 >>> Command Succesfull, The 420 sided die Landed On a **225**
+2020-04-23 20:49:00 >>> '$dice' command called
+2020-04-23 20:49:01 >>> Command Succesfull, The 420 sided die Landed On a **204**
+2020-04-23 20:49:02 >>> '$dice' command called
+2020-04-23 20:49:03 >>> Command Succesfull, The 420 sided die Landed On a **121**
+2020-04-23 20:49:04 >>> '$dice' command called
+2020-04-23 20:49:04 >>> Command Succesfull, The 420 sided die Landed On a **254**
+2020-04-23 20:49:07 >>> '$dice' command called
+2020-04-23 20:49:07 >>> Command Succesfull, The 420 sided die Landed On a **98**
+2020-04-23 20:49:08 >>> '$dice' command called
+2020-04-23 20:49:09 >>> Command Succesfull, The 420 sided die Landed On a **96**
+2020-04-23 20:49:14 >>> '$dice' command called
+2020-04-23 20:49:15 >>> Command Succesfull, The 420 sided die Landed On a **398**
+2020-04-23 20:49:16 >>> '$dice' command called
+2020-04-23 20:49:16 >>> Command Succesfull, The 420 sided die Landed On a **89**
+2020-04-23 20:49:18 >>> '$dice' command called
+2020-04-23 20:49:18 >>> Command Succesfull, The 420 sided die Landed On a **114**
+2020-04-23 20:49:19 >>> '$dice' command called
+2020-04-23 20:49:20 >>> Command Succesfull, The 420 sided die Landed On a **358**
+2020-04-23 20:49:21 >>> '$dice' command called
+2020-04-23 20:49:21 >>> '$dice' command called
+2020-04-23 20:49:21 >>> Command Succesfull, The 420 sided die Landed On a **325**
+2020-04-23 20:49:22 >>> Command Succesfull, The 420 sided die Landed On a **13**
+2020-04-23 20:49:23 >>> '$dice' command called
+2020-04-23 20:49:23 >>> Command Succesfull, The 420 sided die Landed On a **250**
+2020-04-23 20:49:24 >>> '$dice' command called
+2020-04-23 20:49:25 >>> Command Succesfull, The 420 sided die Landed On a **415**
+2020-04-23 20:49:26 >>> '$dice' command called
+2020-04-23 20:49:26 >>> Command Succesfull, The 420 sided die Landed On a **304**
+2020-04-23 20:49:27 >>> '$dice' command called
+2020-04-23 20:49:28 >>> Command Succesfull, The 420 sided die Landed On a **230**
+2020-04-23 20:49:29 >>> '$dice' command called
+2020-04-23 20:49:29 >>> Command Succesfull, The 420 sided die Landed On a **186**
+2020-04-23 20:49:30 >>> '$dice' command called
+2020-04-23 20:49:31 >>> Command Succesfull, The 420 sided die Landed On a **313**
+2020-04-23 20:49:32 >>> '$dice' command called
+2020-04-23 20:49:33 >>> Command Succesfull, The 420 sided die Landed On a **359**
+2020-04-23 20:49:34 >>> '$dice' command called
+2020-04-23 20:49:35 >>> Command Succesfull, The 420 sided die Landed On a **81**
+2020-04-23 20:49:36 >>> '$dice' command called
+2020-04-23 20:49:37 >>> Command Succesfull, The 420 sided die Landed On a **236**
+2020-04-23 20:49:37 >>> '$dice' command called
+2020-04-23 20:49:38 >>> Command Succesfull, The 420 sided die Landed On a **314**
+2020-04-23 20:49:39 >>> '$dice' command called
+2020-04-23 20:49:40 >>> Command Succesfull, The 420 sided die Landed On a **268**
+2020-04-23 20:49:41 >>> '$dice' command called
+2020-04-23 20:49:42 >>> Command Succesfull, The 420 sided die Landed On a **247**
+2020-04-23 20:49:43 >>> '$dice' command called
+2020-04-23 20:49:44 >>> Command Succesfull, The 420 sided die Landed On a **224**
+2020-04-23 20:49:45 >>> '$dice' command called
+2020-04-23 20:49:45 >>> Command Succesfull, The 420 sided die Landed On a **293**
+2020-04-23 20:49:46 >>> '$dice' command called
+2020-04-23 20:49:47 >>> Command Succesfull, The 420 sided die Landed On a **194**
+2020-04-23 20:49:48 >>> '$dice' command called
+2020-04-23 20:49:49 >>> Command Succesfull, The 420 sided die Landed On a **263**
+2020-04-23 20:49:50 >>> '$dice' command called
+2020-04-23 20:49:50 >>> Command Succesfull, The 420 sided die Landed On a **369**
+2020-04-23 20:49:51 >>> '$dice' command called
+2020-04-23 20:49:52 >>> Command Succesfull, The 420 sided die Landed On a **387**
+2020-04-23 20:49:57 >>> '$dice' command called
+2020-04-23 20:49:57 >>> Command Succesfull, The 420 sided die Landed On a **228**
+2020-04-23 20:50:05 >>> '$dice' command called
+2020-04-23 20:50:06 >>> Command Succesfull, The 420 sided die Landed On a **266**
+2020-04-23 20:50:12 >>> '$dice' command called
+2020-04-23 20:50:13 >>> Command Succesfull, The 420 sided die Landed On a **167**
+2020-04-23 20:50:14 >>> '$dice' command called
+2020-04-23 20:50:15 >>> Command Succesfull, The 420 sided die Landed On a **165**
+2020-04-23 20:50:16 >>> '$dice' command called
+2020-04-23 20:50:16 >>> Command Succesfull, The 420 sided die Landed On a **18**
+2020-04-23 20:50:17 >>> '$dice' command called
+2020-04-23 20:50:18 >>> Command Succesfull, The 420 sided die Landed On a **182**
+2020-04-23 20:50:19 >>> '$dice' command called
+2020-04-23 20:50:19 >>> Command Succesfull, The 420 sided die Landed On a **2**
+2020-04-23 20:50:20 >>> '$dice' command called
+2020-04-23 20:50:21 >>> Command Succesfull, The 420 sided die Landed On a **315**
+2020-04-23 20:50:22 >>> '$dice' command called
+2020-04-23 20:50:23 >>> Command Succesfull, The 420 sided die Landed On a **251**
+2020-04-23 20:50:24 >>> '$dice' command called
+2020-04-23 20:50:24 >>> Command Succesfull, The 420 sided die Landed On a **301**
+2020-04-23 20:50:25 >>> '$dice' command called
+2020-04-23 20:50:26 >>> Command Succesfull, The 420 sided die Landed On a **14**
+2020-04-23 20:50:27 >>> '$dice' command called
+2020-04-23 20:50:27 >>> Command Succesfull, The 420 sided die Landed On a **91**
+2020-04-23 20:50:28 >>> '$dice' command called
+2020-04-23 20:50:29 >>> Command Succesfull, The 420 sided die Landed On a **205**
+2020-04-23 20:50:30 >>> '$dice' command called
+2020-04-23 20:50:31 >>> Command Succesfull, The 420 sided die Landed On a **170**
+2020-04-23 20:50:31 >>> '$dice' command called
+2020-04-23 20:50:32 >>> Command Succesfull, The 420 sided die Landed On a **377**
+2020-04-23 20:50:33 >>> '$dice' command called
+2020-04-23 20:50:34 >>> Command Succesfull, The 420 sided die Landed On a **166**
+2020-04-23 20:50:36 >>> '$dice' command called
+2020-04-23 20:50:36 >>> Command Succesfull, The 420 sided die Landed On a **405**
+2020-04-23 20:50:38 >>> '$dice' command called
+2020-04-23 20:50:38 >>> Command Succesfull, The 420 sided die Landed On a **177**
+2020-04-23 20:50:39 >>> '$dice' command called
+2020-04-23 20:50:40 >>> Command Succesfull, The 420 sided die Landed On a **378**
+2020-04-23 20:50:41 >>> '$dice' command called
+2020-04-23 20:50:41 >>> Command Succesfull, The 420 sided die Landed On a **259**
+2020-04-23 20:50:42 >>> '$dice' command called
+2020-04-23 20:50:43 >>> Command Succesfull, The 420 sided die Landed On a **73**
+2020-04-23 20:50:44 >>> '$dice' command called
+2020-04-23 20:50:44 >>> Command Succesfull, The 420 sided die Landed On a **360**
+2020-04-23 20:50:45 >>> '$dice' command called
+2020-04-23 20:50:46 >>> Command Succesfull, The 420 sided die Landed On a **215**
+2020-04-23 20:50:47 >>> '$dice' command called
+2020-04-23 20:50:47 >>> Command Succesfull, The 420 sided die Landed On a **72**
+2020-04-23 20:50:49 >>> '$dice' command called
+2020-04-23 20:50:49 >>> Command Succesfull, The 420 sided die Landed On a **302**
+2020-04-23 20:50:51 >>> '$dice' command called
+2020-04-23 20:50:51 >>> Command Succesfull, The 420 sided die Landed On a **36**
+2020-04-23 20:50:52 >>> '$dice' command called
+2020-04-23 20:50:53 >>> Command Succesfull, The 420 sided die Landed On a **139**
+2020-04-23 20:50:54 >>> '$dice' command called
+2020-04-23 20:50:54 >>> Command Succesfull, The 420 sided die Landed On a **190**
+2020-04-23 20:50:55 >>> '$dice' command called
+2020-04-23 20:50:56 >>> Command Succesfull, The 420 sided die Landed On a **245**
+2020-04-23 20:50:59 >>> '$dice' command called
+2020-04-23 20:50:59 >>> Command Succesfull, The 420 sided die Landed On a **343**
+2020-04-23 20:51:00 >>> '$dice' command called
+2020-04-23 20:51:01 >>> Command Succesfull, The 420 sided die Landed On a **388**
+2020-04-23 20:51:05 >>> '$dice' command called
+2020-04-23 20:51:05 >>> Command Succesfull, The 420 sided die Landed On a **173**
+2020-04-23 20:51:06 >>> '$dice' command called
+2020-04-23 20:51:07 >>> Command Succesfull, The 420 sided die Landed On a **324**
+2020-04-23 20:51:08 >>> '$dice' command called
+2020-04-23 20:51:08 >>> Command Succesfull, The 420 sided die Landed On a **205**
+2020-04-23 20:51:09 >>> '$dice' command called
+2020-04-23 20:51:10 >>> Command Succesfull, The 420 sided die Landed On a **294**
+2020-04-23 20:51:11 >>> '$dice' command called
+2020-04-23 20:51:11 >>> Command Succesfull, The 420 sided die Landed On a **316**
+2020-04-23 20:51:12 >>> '$dice' command called
+2020-04-23 20:51:13 >>> Command Succesfull, The 420 sided die Landed On a **375**
+2020-04-23 20:51:13 >>> '$dice' command called
+2020-04-23 20:51:14 >>> Command Succesfull, The 420 sided die Landed On a **23**
+2020-04-23 20:51:15 >>> '$dice' command called
+2020-04-23 20:51:16 >>> Command Succesfull, The 420 sided die Landed On a **290**
+2020-04-23 20:51:17 >>> '$dice' command called
+2020-04-23 20:51:17 >>> Command Succesfull, The 420 sided die Landed On a **120**
+2020-04-23 20:51:18 >>> '$dice' command called
+2020-04-23 20:51:19 >>> Command Succesfull, The 420 sided die Landed On a **349**
+2020-04-23 20:51:20 >>> '$dice' command called
+2020-04-23 20:51:21 >>> Command Succesfull, The 420 sided die Landed On a **359**
+2020-04-23 20:51:22 >>> '$dice' command called
+2020-04-23 20:51:22 >>> Command Succesfull, The 420 sided die Landed On a **343**
+2020-04-23 20:51:23 >>> '$dice' command called
+2020-04-23 20:51:24 >>> Command Succesfull, The 420 sided die Landed On a **324**
+2020-04-23 20:51:25 >>> '$dice' command called
+2020-04-23 20:51:25 >>> Command Succesfull, The 420 sided die Landed On a **224**
+2020-04-23 20:51:26 >>> '$dice' command called
+2020-04-23 20:51:27 >>> Command Succesfull, The 420 sided die Landed On a **191**
+2020-04-23 20:51:28 >>> '$dice' command called
+2020-04-23 20:51:28 >>> Command Succesfull, The 420 sided die Landed On a **321**
+2020-04-23 20:51:29 >>> '$dice' command called
+2020-04-23 20:51:30 >>> Command Succesfull, The 420 sided die Landed On a **178**
+2020-04-23 20:51:31 >>> '$dice' command called
+2020-04-23 20:51:32 >>> Command Succesfull, The 420 sided die Landed On a **349**
+2020-04-23 20:51:33 >>> '$dice' command called
+2020-04-23 20:51:33 >>> Command Succesfull, The 420 sided die Landed On a **364**
+2020-04-23 20:51:34 >>> '$dice' command called
+2020-04-23 20:51:34 >>> Command Succesfull, The 420 sided die Landed On a **123**
+2020-04-23 20:51:35 >>> '$dice' command called
+2020-04-23 20:51:36 >>> Command Succesfull, The 420 sided die Landed On a **193**
+2020-04-23 20:51:36 >>> '$dice' command called
+2020-04-23 20:51:37 >>> Command Succesfull, The 420 sided die Landed On a **101**
+2020-04-23 20:51:38 >>> '$dice' command called
+2020-04-23 20:51:39 >>> Command Succesfull, The 420 sided die Landed On a **188**
+2020-04-23 20:51:40 >>> '$dice' command called
+2020-04-23 20:51:40 >>> Command Succesfull, The 420 sided die Landed On a **39**
+2020-04-23 20:51:42 >>> '$dice' command called
+2020-04-23 20:51:42 >>> Command Succesfull, The 420 sided die Landed On a **128**
+2020-04-23 20:51:43 >>> '$dice' command called
+2020-04-23 20:51:44 >>> Command Succesfull, The 420 sided die Landed On a **321**
+2020-04-23 20:51:44 >>> '$dice' command called
+2020-04-23 20:51:45 >>> Command Succesfull, The 420 sided die Landed On a **337**
+2020-04-23 20:51:46 >>> '$dice' command called
+2020-04-23 20:51:46 >>> Command Succesfull, The 420 sided die Landed On a **258**
+2020-04-23 20:51:47 >>> '$dice' command called
+2020-04-23 20:51:47 >>> Command Succesfull, The 420 sided die Landed On a **116**
+2020-04-23 20:51:48 >>> '$dice' command called
+2020-04-23 20:51:48 >>> Command Succesfull, The 420 sided die Landed On a **373**
+2020-04-23 20:51:49 >>> '$dice' command called
+2020-04-23 20:51:50 >>> Command Succesfull, The 420 sided die Landed On a **231**
+2020-04-23 20:51:50 >>> '$dice' command called
+2020-04-23 20:51:51 >>> Command Succesfull, The 420 sided die Landed On a **101**
+2020-04-23 20:51:52 >>> '$dice' command called
+2020-04-23 20:51:52 >>> Command Succesfull, The 420 sided die Landed On a **407**
+2020-04-23 20:51:53 >>> '$dice' command called
+2020-04-23 20:51:54 >>> Command Succesfull, The 420 sided die Landed On a **13**
+2020-04-23 20:51:55 >>> '$dice' command called
+2020-04-23 20:51:55 >>> Command Succesfull, The 420 sided die Landed On a **408**
+2020-04-23 20:51:56 >>> '$dice' command called
+2020-04-23 20:51:57 >>> Command Succesfull, The 420 sided die Landed On a **49**
+2020-04-23 20:51:58 >>> '$dice' command called
+2020-04-23 20:51:58 >>> Command Succesfull, The 420 sided die Landed On a **145**
+2020-04-23 20:51:59 >>> '$dice' command called
+2020-04-23 20:51:59 >>> Command Succesfull, The 420 sided die Landed On a **268**
+2020-04-23 20:52:00 >>> '$dice' command called
+2020-04-23 20:52:01 >>> Command Succesfull, The 420 sided die Landed On a **350**
+2020-04-23 20:52:02 >>> '$dice' command called
+2020-04-23 20:52:02 >>> Command Succesfull, The 420 sided die Landed On a **161**
+2020-04-23 20:52:03 >>> '$dice' command called
+2020-04-23 20:52:04 >>> Command Succesfull, The 420 sided die Landed On a **79**
+2020-04-23 20:52:05 >>> '$dice' command called
+2020-04-23 20:52:05 >>> Command Succesfull, The 420 sided die Landed On a **303**
+2020-04-23 20:52:06 >>> '$dice' command called
+2020-04-23 20:52:06 >>> Command Succesfull, The 420 sided die Landed On a **89**
+2020-04-23 20:52:08 >>> '$dice' command called
+2020-04-23 20:52:08 >>> Command Succesfull, The 420 sided die Landed On a **265**
+2020-04-23 20:52:09 >>> '$dice' command called
+2020-04-23 20:52:10 >>> Command Succesfull, The 420 sided die Landed On a **245**
+2020-04-23 20:52:11 >>> '$dice' command called
+2020-04-23 20:52:11 >>> Command Succesfull, The 420 sided die Landed On a **59**
+2020-04-23 20:52:12 >>> '$dice' command called
+2020-04-23 20:52:13 >>> Command Succesfull, The 420 sided die Landed On a **146**
+2020-04-23 20:52:14 >>> '$dice' command called
+2020-04-23 20:52:14 >>> Command Succesfull, The 420 sided die Landed On a **17**
+2020-04-23 20:52:15 >>> '$dice' command called
+2020-04-23 20:52:16 >>> Command Succesfull, The 420 sided die Landed On a **327**
+2020-04-23 20:52:17 >>> '$dice' command called
+2020-04-23 20:52:18 >>> Command Succesfull, The 420 sided die Landed On a **365**
+2020-04-23 20:52:19 >>> '$dice' command called
+2020-04-23 20:52:19 >>> Command Succesfull, The 420 sided die Landed On a **67**
+2020-04-23 20:52:24 >>> '$dice' command called
+2020-04-23 20:52:24 >>> Command Succesfull, The 420 sided die Landed On a **413**
+2020-04-23 20:52:24 >>> '$poll' command called
+2020-04-23 20:52:26 >>> '$dice' command called
+2020-04-23 20:52:26 >>> Command Succesfull, The 420 sided die Landed On a **285**
+2020-04-23 20:52:27 >>> '$dice' command called
+2020-04-23 20:52:28 >>> Command Succesfull, The 420 sided die Landed On a **250**
+2020-04-23 20:52:29 >>> '$dice' command called
+2020-04-23 20:52:29 >>> Command Succesfull, The 420 sided die Landed On a **146**
+2020-04-23 20:52:31 >>> '$dice' command called
+2020-04-23 20:52:31 >>> Command Succesfull, The 420 sided die Landed On a **108**
+2020-04-23 20:52:32 >>> '$dice' command called
+2020-04-23 20:52:33 >>> Command Succesfull, The 420 sided die Landed On a **402**
+2020-04-23 20:52:33 >>> '$dice' command called
+2020-04-23 20:52:34 >>> Command Succesfull, The 420 sided die Landed On a **104**
+2020-04-23 20:52:35 >>> '$dice' command called
+2020-04-23 20:52:35 >>> Command Succesfull, The 420 sided die Landed On a **307**
+2020-04-23 20:52:36 >>> '$dice' command called
+2020-04-23 20:52:37 >>> Command Succesfull, The 420 sided die Landed On a **96**
+2020-04-23 20:52:40 >>> '$dice' command called
+2020-04-23 20:52:41 >>> Command Succesfull, The 420 sided die Landed On a **342**
+2020-04-23 20:52:42 >>> '$dice' command called
+2020-04-23 20:52:42 >>> Command Succesfull, The 420 sided die Landed On a **257**
+2020-04-23 20:52:43 >>> '$dice' command called
+2020-04-23 20:52:44 >>> Command Succesfull, The 420 sided die Landed On a **89**
+2020-04-23 20:52:45 >>> '$dice' command called
+2020-04-23 20:52:45 >>> Command Succesfull, The 420 sided die Landed On a **120**
+2020-04-23 20:52:46 >>> '$dice' command called
+2020-04-23 20:52:47 >>> Command Succesfull, The 420 sided die Landed On a **326**
+2020-04-23 20:52:47 >>> '$dice' command called
+2020-04-23 20:52:48 >>> Command Succesfull, The 420 sided die Landed On a **418**
+2020-04-23 20:52:49 >>> '$dice' command called
+2020-04-23 20:52:49 >>> Command Succesfull, The 420 sided die Landed On a **31**
+2020-04-23 20:52:51 >>> '$dice' command called
+2020-04-23 20:52:51 >>> Command Succesfull, The 420 sided die Landed On a **201**
+2020-04-23 20:52:52 >>> '$dice' command called
+2020-04-23 20:52:52 >>> Command Succesfull, The 420 sided die Landed On a **103**
+2020-04-23 20:52:54 >>> '$dice' command called
+2020-04-23 20:52:54 >>> Command Succesfull, The 420 sided die Landed On a **235**
+2020-04-23 20:52:55 >>> '$dice' command called
+2020-04-23 20:52:56 >>> Command Succesfull, The 420 sided die Landed On a **109**
+2020-04-23 20:52:57 >>> '$dice' command called
+2020-04-23 20:52:57 >>> Command Succesfull, The 420 sided die Landed On a **418**
+2020-04-23 20:52:58 >>> '$dice' command called
+2020-04-23 20:52:58 >>> Command Succesfull, The 420 sided die Landed On a **284**
+2020-04-23 20:52:59 >>> '$dice' command called
+2020-04-23 20:53:00 >>> Command Succesfull, The 420 sided die Landed On a **270**
+2020-04-23 20:53:01 >>> '$dice' command called
+2020-04-23 20:53:01 >>> Command Succesfull, The 420 sided die Landed On a **38**
+2020-04-23 20:53:02 >>> '$dice' command called
+2020-04-23 20:53:03 >>> Command Succesfull, The 420 sided die Landed On a **339**
+2020-04-23 20:53:04 >>> '$dice' command called
+2020-04-23 20:53:04 >>> Command Succesfull, The 420 sided die Landed On a **223**
+2020-04-23 20:53:05 >>> '$dice' command called
+2020-04-23 20:53:05 >>> Command Succesfull, The 420 sided die Landed On a **48**
+2020-04-23 20:53:06 >>> '$dice' command called
+2020-04-23 20:53:07 >>> Command Succesfull, The 420 sided die Landed On a **183**
+2020-04-23 20:53:08 >>> '$dice' command called
+2020-04-23 20:53:09 >>> Command Succesfull, The 420 sided die Landed On a **234**
+2020-04-23 20:53:09 >>> '$dice' command called
+2020-04-23 20:53:10 >>> Command Succesfull, The 420 sided die Landed On a **145**
+2020-04-23 20:53:11 >>> '$dice' command called
+2020-04-23 20:53:11 >>> Command Succesfull, The 420 sided die Landed On a **355**
+2020-04-23 20:53:12 >>> '$dice' command called
+2020-04-23 20:53:13 >>> Command Succesfull, The 420 sided die Landed On a **139**
+2020-04-23 20:53:14 >>> '$dice' command called
+2020-04-23 20:53:14 >>> Command Succesfull, The 420 sided die Landed On a **328**
+2020-04-23 20:53:15 >>> '$dice' command called
+2020-04-23 20:53:16 >>> Command Succesfull, The 420 sided die Landed On a **414**
+2020-04-23 20:53:17 >>> '$dice' command called
+2020-04-23 20:53:17 >>> Command Succesfull, The 420 sided die Landed On a **168**
+2020-04-23 20:53:18 >>> '$dice' command called
+2020-04-23 20:53:19 >>> Command Succesfull, The 420 sided die Landed On a **36**
+2020-04-23 20:53:20 >>> '$dice' command called
+2020-04-23 20:53:20 >>> Command Succesfull, The 420 sided die Landed On a **75**
+2020-04-23 20:53:22 >>> '$dice' command called
+2020-04-23 20:53:22 >>> Command Succesfull, The 420 sided die Landed On a **12**
+2020-04-23 20:53:23 >>> '$dice' command called
+2020-04-23 20:53:23 >>> Command Succesfull, The 420 sided die Landed On a **331**
+2020-04-23 20:53:24 >>> '$dice' command called
+2020-04-23 20:53:25 >>> Command Succesfull, The 420 sided die Landed On a **49**
+2020-04-23 20:53:26 >>> '$dice' command called
+2020-04-23 20:53:26 >>> Command Succesfull, The 420 sided die Landed On a **264**
+2020-04-23 20:53:27 >>> '$dice' command called
+2020-04-23 20:53:28 >>> Command Succesfull, The 420 sided die Landed On a **128**
+2020-04-23 20:53:29 >>> '$dice' command called
+2020-04-23 20:53:29 >>> Command Succesfull, The 420 sided die Landed On a **39**
+2020-04-23 20:53:30 >>> '$dice' command called
+2020-04-23 20:53:31 >>> Command Succesfull, The 420 sided die Landed On a **99**
+2020-04-23 20:53:32 >>> '$dice' command called
+2020-04-23 20:53:33 >>> Command Succesfull, The 420 sided die Landed On a **168**
+2020-04-23 20:53:34 >>> '$dice' command called
+2020-04-23 20:53:34 >>> Command Succesfull, The 420 sided die Landed On a **321**
+2020-04-23 20:53:35 >>> '$dice' command called
+2020-04-23 20:53:35 >>> Command Succesfull, The 420 sided die Landed On a **265**
+2020-04-23 20:53:36 >>> '$dice' command called
+2020-04-23 20:53:37 >>> Command Succesfull, The 420 sided die Landed On a **413**
+2020-04-23 20:53:38 >>> '$dice' command called
+2020-04-23 20:53:38 >>> Command Succesfull, The 420 sided die Landed On a **3**
+2020-04-23 20:53:39 >>> '$dice' command called
+2020-04-23 20:53:40 >>> Command Succesfull, The 420 sided die Landed On a **114**
+2020-04-23 20:53:40 >>> '$dice' command called
+2020-04-23 20:53:41 >>> Command Succesfull, The 420 sided die Landed On a **18**
+2020-04-23 20:53:42 >>> '$dice' command called
+2020-04-23 20:53:42 >>> Command Succesfull, The 420 sided die Landed On a **266**
+2020-04-23 20:53:43 >>> '$dice' command called
+2020-04-23 20:53:44 >>> Command Succesfull, The 420 sided die Landed On a **63**
+2020-04-23 20:53:44 >>> '$dice' command called
+2020-04-23 20:53:45 >>> Command Succesfull, The 420 sided die Landed On a **192**
+2020-04-23 20:53:46 >>> '$dice' command called
+2020-04-23 20:53:46 >>> Command Succesfull, The 420 sided die Landed On a **91**
+2020-04-23 20:53:47 >>> '$dice' command called
+2020-04-23 20:53:47 >>> Command Succesfull, The 420 sided die Landed On a **411**
+2020-04-23 20:53:48 >>> '$dice' command called
+2020-04-23 20:53:49 >>> Command Succesfull, The 420 sided die Landed On a **276**
+2020-04-23 20:53:50 >>> '$dice' command called
+2020-04-23 20:53:50 >>> Command Succesfull, The 420 sided die Landed On a **102**
+2020-04-23 20:53:51 >>> '$dice' command called
+2020-04-23 20:53:51 >>> Command Succesfull, The 420 sided die Landed On a **138**
+2020-04-23 20:53:52 >>> '$dice' command called
+2020-04-23 20:53:53 >>> Command Succesfull, The 420 sided die Landed On a **284**
+2020-04-23 20:53:54 >>> '$dice' command called
+2020-04-23 20:53:55 >>> Command Succesfull, The 420 sided die Landed On a **311**
+2020-04-23 20:53:56 >>> '$dice' command called
+2020-04-23 20:53:56 >>> Command Succesfull, The 420 sided die Landed On a **359**
+2020-04-23 20:53:56 >>> '$dice' command called
+2020-04-23 20:53:57 >>> Command Succesfull, The 420 sided die Landed On a **193**
+2020-04-23 20:53:58 >>> '$dice' command called
+2020-04-23 20:53:59 >>> Command Succesfull, The 420 sided die Landed On a **30**
+2020-04-23 20:54:00 >>> '$dice' command called
+2020-04-23 20:54:00 >>> Command Succesfull, The 420 sided die Landed On a **208**
+2020-04-23 20:54:01 >>> '$dice' command called
+2020-04-23 20:54:02 >>> Command Succesfull, The 420 sided die Landed On a **4**
+2020-04-23 20:54:04 >>> '$dice' command called
+2020-04-23 20:54:04 >>> Command Succesfull, The 420 sided die Landed On a **207**
+2020-04-23 20:54:05 >>> '$dice' command called
+2020-04-23 20:54:06 >>> Command Succesfull, The 420 sided die Landed On a **254**
+2020-04-23 20:54:07 >>> '$dice' command called
+2020-04-23 20:54:07 >>> Command Succesfull, The 420 sided die Landed On a **123**
+2020-04-23 20:54:08 >>> '$dice' command called
+2020-04-23 20:54:09 >>> Command Succesfull, The 420 sided die Landed On a **226**
+2020-04-23 20:54:10 >>> '$dice' command called
+2020-04-23 20:54:10 >>> Command Succesfull, The 420 sided die Landed On a **235**
+2020-04-23 20:54:11 >>> '$dice' command called
+2020-04-23 20:54:12 >>> Command Succesfull, The 420 sided die Landed On a **245**
+2020-04-23 20:54:13 >>> '$dice' command called
+2020-04-23 20:54:13 >>> Command Succesfull, The 420 sided die Landed On a **356**
+2020-04-23 20:54:14 >>> '$dice' command called
+2020-04-23 20:54:15 >>> Command Succesfull, The 420 sided die Landed On a **182**
+2020-04-23 20:54:16 >>> '$dice' command called
+2020-04-23 20:54:16 >>> Command Succesfull, The 420 sided die Landed On a **75**
+2020-04-23 20:54:18 >>> '$dice' command called
+2020-04-23 20:54:18 >>> Command Succesfull, The 420 sided die Landed On a **148**
+2020-04-23 20:54:19 >>> '$dice' command called
+2020-04-23 20:54:20 >>> Command Succesfull, The 420 sided die Landed On a **331**
+2020-04-23 20:54:21 >>> '$dice' command called
+2020-04-23 20:54:21 >>> Command Succesfull, The 420 sided die Landed On a **66**
+2020-04-23 20:54:23 >>> '$dice' command called
+2020-04-23 20:54:23 >>> Command Succesfull, The 420 sided die Landed On a **221**
+2020-04-23 20:54:24 >>> '$dice' command called
+2020-04-23 20:54:25 >>> Command Succesfull, The 420 sided die Landed On a **262**
+2020-04-23 20:54:26 >>> '$dice' command called
+2020-04-23 20:54:26 >>> Command Succesfull, The 420 sided die Landed On a **134**
+2020-04-23 20:54:27 >>> '$dice' command called
+2020-04-23 20:54:28 >>> Command Succesfull, The 420 sided die Landed On a **396**
+2020-04-23 20:54:29 >>> '$dice' command called
+2020-04-23 20:54:29 >>> Command Succesfull, The 420 sided die Landed On a **207**
+2020-04-23 20:54:30 >>> '$dice' command called
+2020-04-23 20:54:31 >>> Command Succesfull, The 420 sided die Landed On a **308**
+2020-04-23 20:54:32 >>> '$dice' command called
+2020-04-23 20:54:32 >>> Command Succesfull, The 420 sided die Landed On a **294**
+2020-04-23 20:54:33 >>> '$dice' command called
+2020-04-23 20:54:33 >>> Command Succesfull, The 420 sided die Landed On a **192**
+2020-04-23 20:54:34 >>> '$dice' command called
+2020-04-23 20:54:35 >>> Command Succesfull, The 420 sided die Landed On a **309**
+2020-04-23 20:54:36 >>> '$dice' command called
+2020-04-23 20:54:37 >>> Command Succesfull, The 420 sided die Landed On a **320**
+2020-04-23 20:54:38 >>> '$dice' command called
+2020-04-23 20:54:38 >>> Command Succesfull, The 420 sided die Landed On a **1**
+2020-04-23 20:54:39 >>> '$dice' command called
+2020-04-23 20:54:40 >>> Command Succesfull, The 420 sided die Landed On a **368**
+2020-04-23 20:54:41 >>> '$dice' command called
+2020-04-23 20:54:41 >>> Command Succesfull, The 420 sided die Landed On a **418**
+2020-04-23 20:54:42 >>> '$dice' command called
+2020-04-23 20:54:43 >>> Command Succesfull, The 420 sided die Landed On a **305**
+2020-04-23 20:54:44 >>> '$dice' command called
+2020-04-23 20:54:44 >>> Command Succesfull, The 420 sided die Landed On a **56**
+2020-04-23 20:54:45 >>> '$dice' command called
+2020-04-23 20:54:46 >>> Command Succesfull, The 420 sided die Landed On a **45**
+2020-04-23 20:54:47 >>> '$dice' command called
+2020-04-23 20:54:47 >>> Command Succesfull, The 420 sided die Landed On a **220**
+2020-04-23 20:54:48 >>> '$dice' command called
+2020-04-23 20:54:48 >>> Command Succesfull, The 420 sided die Landed On a **299**
+2020-04-23 20:54:49 >>> '$dice' command called
+2020-04-23 20:54:50 >>> Command Succesfull, The 420 sided die Landed On a **282**
+2020-04-23 20:54:51 >>> '$dice' command called
+2020-04-23 20:54:51 >>> Command Succesfull, The 420 sided die Landed On a **219**
+2020-04-23 20:54:52 >>> '$dice' command called
+2020-04-23 20:54:52 >>> Command Succesfull, The 420 sided die Landed On a **185**
+2020-04-23 20:54:53 >>> '$dice' command called
+2020-04-23 20:54:53 >>> Command Succesfull, The 420 sided die Landed On a **374**
+2020-04-23 20:54:54 >>> '$dice' command called
+2020-04-23 20:54:55 >>> Command Succesfull, The 420 sided die Landed On a **111**
+2020-04-23 20:54:55 >>> '$dice' command called
+2020-04-23 20:54:56 >>> Command Succesfull, The 420 sided die Landed On a **301**
+2020-04-23 20:54:57 >>> '$dice' command called
+2020-04-23 20:54:57 >>> Command Succesfull, The 420 sided die Landed On a **321**
+2020-04-23 20:54:58 >>> '$dice' command called
+2020-04-23 20:54:59 >>> Command Succesfull, The 420 sided die Landed On a **200**
+2020-04-23 20:54:59 >>> '$dice' command called
+2020-04-23 20:55:00 >>> Command Succesfull, The 420 sided die Landed On a **51**
+2020-04-23 20:55:00 >>> '$dice' command called
+2020-04-23 20:55:01 >>> Command Succesfull, The 420 sided die Landed On a **78**
+2020-04-23 20:55:02 >>> '$dice' command called
+2020-04-23 20:55:02 >>> Command Succesfull, The 420 sided die Landed On a **275**
+2020-04-23 20:55:03 >>> '$dice' command called
+2020-04-23 20:55:04 >>> Command Succesfull, The 420 sided die Landed On a **323**
+2020-04-23 20:55:05 >>> '$dice' command called
+2020-04-23 20:55:06 >>> Command Succesfull, The 420 sided die Landed On a **206**
+2020-04-23 20:55:07 >>> '$dice' command called
+2020-04-23 20:55:07 >>> Command Succesfull, The 420 sided die Landed On a **77**
+2020-04-23 20:55:08 >>> '$dice' command called
+2020-04-23 20:55:08 >>> Command Succesfull, The 420 sided die Landed On a **297**
+2020-04-23 20:55:10 >>> '$dice' command called
+2020-04-23 20:55:10 >>> Command Succesfull, The 420 sided die Landed On a **31**
+2020-04-23 20:55:11 >>> '$dice' command called
+2020-04-23 20:55:12 >>> Command Succesfull, The 420 sided die Landed On a **343**
+2020-04-23 20:55:13 >>> '$dice' command called
+2020-04-23 20:55:14 >>> Command Succesfull, The 420 sided die Landed On a **383**
+2020-04-23 20:55:15 >>> '$dice' command called
+2020-04-23 20:55:15 >>> Command Succesfull, The 420 sided die Landed On a **314**
+2020-04-23 20:55:16 >>> '$dice' command called
+2020-04-23 20:55:17 >>> Command Succesfull, The 420 sided die Landed On a **89**
+2020-04-23 20:55:18 >>> '$dice' command called
+2020-04-23 20:55:19 >>> Command Succesfull, The 420 sided die Landed On a **288**
+2020-04-23 20:55:20 >>> '$dice' command called
+2020-04-23 20:55:20 >>> Command Succesfull, The 420 sided die Landed On a **326**
+2020-04-23 20:55:21 >>> '$dice' command called
+2020-04-23 20:55:22 >>> Command Succesfull, The 420 sided die Landed On a **13**
+2020-04-23 20:55:22 >>> '$dice' command called
+2020-04-23 20:55:23 >>> Command Succesfull, The 420 sided die Landed On a **216**
+2020-04-23 20:55:24 >>> '$dice' command called
+2020-04-23 20:55:24 >>> Command Succesfull, The 420 sided die Landed On a **81**
+2020-04-23 20:55:25 >>> '$dice' command called
+2020-04-23 20:55:26 >>> Command Succesfull, The 420 sided die Landed On a **224**
+2020-04-23 20:55:26 >>> '$dice' command called
+2020-04-23 20:55:27 >>> Command Succesfull, The 420 sided die Landed On a **177**
+2020-04-23 20:55:29 >>> '$dice' command called
+2020-04-23 20:55:29 >>> Command Succesfull, The 420 sided die Landed On a **207**
+2020-04-23 20:55:30 >>> '$dice' command called
+2020-04-23 20:55:31 >>> Command Succesfull, The 420 sided die Landed On a **95**
+2020-04-23 20:55:35 >>> '$dice' command called
+2020-04-23 20:55:36 >>> Command Succesfull, The 420 sided die Landed On a **166**
+2020-04-23 20:55:37 >>> '$dice' command called
+2020-04-23 20:55:38 >>> Command Succesfull, The 420 sided die Landed On a **303**
+2020-04-23 20:55:39 >>> '$dice' command called
+2020-04-23 20:55:39 >>> Command Succesfull, The 420 sided die Landed On a **315**
+2020-04-23 20:55:40 >>> '$dice' command called
+2020-04-23 20:55:41 >>> Command Succesfull, The 420 sided die Landed On a **86**
+2020-04-23 20:55:42 >>> '$dice' command called
+2020-04-23 20:55:42 >>> Command Succesfull, The 420 sided die Landed On a **1**
+2020-04-23 20:55:43 >>> '$dice' command called
+2020-04-23 20:55:44 >>> Command Succesfull, The 420 sided die Landed On a **419**
+2020-04-23 20:55:45 >>> '$dice' command called
+2020-04-23 20:55:46 >>> Command Succesfull, The 420 sided die Landed On a **405**
+2020-04-23 20:55:47 >>> '$dice' command called
+2020-04-23 20:55:47 >>> Command Succesfull, The 420 sided die Landed On a **321**
+2020-04-23 20:55:57 >>> '$dice' command called
+2020-04-23 20:55:58 >>> Command Succesfull, The 420 sided die Landed On a **13**
+2020-04-23 20:55:59 >>> '$dice' command called
+2020-04-23 20:55:59 >>> Command Succesfull, The 420 sided die Landed On a **279**
+2020-04-23 20:56:00 >>> '$dice' command called
+2020-04-23 20:56:01 >>> Command Succesfull, The 420 sided die Landed On a **148**
+2020-04-23 20:56:02 >>> '$dice' command called
+2020-04-23 20:56:02 >>> Command Succesfull, The 420 sided die Landed On a **70**
+2020-04-23 20:56:06 >>> '$dice' command called
+2020-04-23 20:56:07 >>> Command Succesfull, The 420 sided die Landed On a **301**
+2020-04-23 20:56:08 >>> '$dice' command called
+2020-04-23 20:56:09 >>> Command Succesfull, The 420 sided die Landed On a **258**
+2020-04-23 20:56:09 >>> '$dice' command called
+2020-04-23 20:56:10 >>> Command Succesfull, The 420 sided die Landed On a **342**
+2020-04-23 20:56:11 >>> '$dice' command called
+2020-04-23 20:56:11 >>> Command Succesfull, The 420 sided die Landed On a **327**
+2020-04-23 20:56:12 >>> '$dice' command called
+2020-04-23 20:56:13 >>> Command Succesfull, The 420 sided die Landed On a **159**
+2020-04-23 20:56:13 >>> '$dice' command called
+2020-04-23 20:56:14 >>> Command Succesfull, The 420 sided die Landed On a **333**
+2020-04-23 20:56:15 >>> '$dice' command called
+2020-04-23 20:56:15 >>> Command Succesfull, The 420 sided die Landed On a **370**
+2020-04-23 20:56:16 >>> '$dice' command called
+2020-04-23 20:56:17 >>> Command Succesfull, The 420 sided die Landed On a **7**
+2020-04-23 20:56:17 >>> '$dice' command called
+2020-04-23 20:56:18 >>> Command Succesfull, The 420 sided die Landed On a **392**
+2020-04-23 20:56:19 >>> '$dice' command called
+2020-04-23 20:56:19 >>> Command Succesfull, The 420 sided die Landed On a **364**
+2020-04-23 20:56:20 >>> '$dice' command called
+2020-04-23 20:56:21 >>> Command Succesfull, The 420 sided die Landed On a **267**
+2020-04-23 20:56:22 >>> '$dice' command called
+2020-04-23 20:56:22 >>> Command Succesfull, The 420 sided die Landed On a **35**
+2020-04-23 20:56:23 >>> '$dice' command called
+2020-04-23 20:56:24 >>> Command Succesfull, The 420 sided die Landed On a **303**
+2020-04-23 20:56:24 >>> '$dice' command called
+2020-04-23 20:56:25 >>> Command Succesfull, The 420 sided die Landed On a **166**
+2020-04-23 20:56:26 >>> '$dice' command called
+2020-04-23 20:56:26 >>> Command Succesfull, The 420 sided die Landed On a **52**
+2020-04-23 20:56:27 >>> '$dice' command called
+2020-04-23 20:56:28 >>> Command Succesfull, The 420 sided die Landed On a **250**
+2020-04-23 20:56:28 >>> '$dice' command called
+2020-04-23 20:56:29 >>> Command Succesfull, The 420 sided die Landed On a **261**
+2020-04-23 20:56:30 >>> '$dice' command called
+2020-04-23 20:56:30 >>> Command Succesfull, The 420 sided die Landed On a **76**
+2020-04-23 20:56:31 >>> '$dice' command called
+2020-04-23 20:56:32 >>> Command Succesfull, The 420 sided die Landed On a **199**
+2020-04-23 20:56:33 >>> '$dice' command called
+2020-04-23 20:56:33 >>> Command Succesfull, The 420 sided die Landed On a **320**
+2020-04-23 20:56:34 >>> '$dice' command called
+2020-04-23 20:56:35 >>> Command Succesfull, The 420 sided die Landed On a **342**
+2020-04-23 20:56:36 >>> '$dice' command called
+2020-04-23 20:56:36 >>> Command Succesfull, The 420 sided die Landed On a **322**
+2020-04-23 20:56:37 >>> '$dice' command called
+2020-04-23 20:56:38 >>> Command Succesfull, The 420 sided die Landed On a **329**
+2020-04-23 20:56:38 >>> '$dice' command called
+2020-04-23 20:56:39 >>> Command Succesfull, The 420 sided die Landed On a **30**
+2020-04-23 20:56:40 >>> '$dice' command called
+2020-04-23 20:56:41 >>> Command Succesfull, The 420 sided die Landed On a **19**
+2020-04-23 20:56:42 >>> '$dice' command called
+2020-04-23 20:56:42 >>> Command Succesfull, The 420 sided die Landed On a **268**
+2020-04-23 20:56:43 >>> '$dice' command called
+2020-04-23 20:56:44 >>> Command Succesfull, The 420 sided die Landed On a **12**
+2020-04-23 20:56:45 >>> '$dice' command called
+2020-04-23 20:56:45 >>> Command Succesfull, The 420 sided die Landed On a **135**
+2020-04-23 20:56:46 >>> '$dice' command called
+2020-04-23 20:56:47 >>> Command Succesfull, The 420 sided die Landed On a **339**
+2020-04-23 20:56:48 >>> '$dice' command called
+2020-04-23 20:56:48 >>> Command Succesfull, The 420 sided die Landed On a **218**
+2020-04-23 20:56:49 >>> '$dice' command called
+2020-04-23 20:56:50 >>> Command Succesfull, The 420 sided die Landed On a **232**
+2020-04-23 20:56:50 >>> '$dice' command called
+2020-04-23 20:56:51 >>> Command Succesfull, The 420 sided die Landed On a **407**
+2020-04-23 20:56:52 >>> '$dice' command called
+2020-04-23 20:56:53 >>> Command Succesfull, The 420 sided die Landed On a **141**
+2020-04-23 20:56:53 >>> '$dice' command called
+2020-04-23 20:56:54 >>> Command Succesfull, The 420 sided die Landed On a **254**
+2020-04-23 20:56:55 >>> '$dice' command called
+2020-04-23 20:56:55 >>> Command Succesfull, The 420 sided die Landed On a **121**
+2020-04-23 20:56:56 >>> '$dice' command called
+2020-04-23 20:56:56 >>> Command Succesfull, The 420 sided die Landed On a **94**
+2020-04-23 20:56:58 >>> '$dice' command called
+2020-04-23 20:56:58 >>> Command Succesfull, The 420 sided die Landed On a **270**
+2020-04-23 20:56:59 >>> '$dice' command called
+2020-04-23 20:57:00 >>> Command Succesfull, The 420 sided die Landed On a **83**
+2020-04-23 20:57:01 >>> '$dice' command called
+2020-04-23 20:57:01 >>> Command Succesfull, The 420 sided die Landed On a **157**
+2020-04-23 20:57:02 >>> '$dice' command called
+2020-04-23 20:57:02 >>> Command Succesfull, The 420 sided die Landed On a **92**
+2020-04-23 20:57:03 >>> '$dice' command called
+2020-04-23 20:57:04 >>> Command Succesfull, The 420 sided die Landed On a **165**
+2020-04-23 20:57:05 >>> '$dice' command called
+2020-04-23 20:57:05 >>> Command Succesfull, The 420 sided die Landed On a **240**
+2020-04-23 20:57:09 >>> '$dice' command called
+2020-04-23 20:57:10 >>> Command Succesfull, The 420 sided die Landed On a **88**
+2020-04-23 20:57:11 >>> '$dice' command called
+2020-04-23 20:57:12 >>> Command Succesfull, The 420 sided die Landed On a **85**
+2020-04-23 20:57:13 >>> '$dice' command called
+2020-04-23 20:57:13 >>> Command Succesfull, The 420 sided die Landed On a **420**
+2020-04-23 20:57:14 >>> '$dice' command called
+2020-04-23 20:57:14 >>> Command Succesfull, The 420 sided die Landed On a **349**
+2020-04-23 20:57:21 >>> '$dice' command called
+2020-04-23 20:57:22 >>> Command Succesfull, The 420 sided die Landed On a **209**
+2020-04-23 20:57:23 >>> '$dice' command called
+2020-04-23 20:57:23 >>> Command Succesfull, The 420 sided die Landed On a **188**
+2020-04-23 20:57:24 >>> '$dice' command called
+2020-04-23 20:57:25 >>> Command Succesfull, The 420 sided die Landed On a **390**
+2020-04-23 20:57:26 >>> '$dice' command called
+2020-04-23 20:57:27 >>> Command Succesfull, The 420 sided die Landed On a **350**
+2020-04-23 20:57:28 >>> '$dice' command called
+2020-04-23 20:57:28 >>> Command Succesfull, The 420 sided die Landed On a **88**
+2020-04-23 20:57:29 >>> '$dice' command called
+2020-04-23 20:57:29 >>> Command Succesfull, The 420 sided die Landed On a **260**
+2020-04-23 20:57:30 >>> '$dice' command called
+2020-04-23 20:57:31 >>> Command Succesfull, The 420 sided die Landed On a **184**
+2020-04-23 20:57:32 >>> '$dice' command called
+2020-04-23 20:57:32 >>> Command Succesfull, The 420 sided die Landed On a **178**
+2020-04-23 20:57:33 >>> '$dice' command called
+2020-04-23 20:57:33 >>> Command Succesfull, The 420 sided die Landed On a **52**
+2020-04-23 20:57:34 >>> '$dice' command called
+2020-04-23 20:57:35 >>> Command Succesfull, The 420 sided die Landed On a **324**
+2020-04-23 20:57:36 >>> '$dice' command called
+2020-04-23 20:57:36 >>> Command Succesfull, The 420 sided die Landed On a **261**
+2020-04-23 20:57:37 >>> '$dice' command called
+2020-04-23 20:57:38 >>> Command Succesfull, The 420 sided die Landed On a **329**
+2020-04-23 20:57:39 >>> '$dice' command called
+2020-04-23 20:57:39 >>> Command Succesfull, The 420 sided die Landed On a **340**
+2020-04-23 20:57:40 >>> '$dice' command called
+2020-04-23 20:57:41 >>> Command Succesfull, The 420 sided die Landed On a **159**
+2020-04-23 20:57:42 >>> '$dice' command called
+2020-04-23 20:57:42 >>> Command Succesfull, The 420 sided die Landed On a **38**
+2020-04-23 20:57:43 >>> '$dice' command called
+2020-04-23 20:57:44 >>> Command Succesfull, The 420 sided die Landed On a **137**
+2020-04-23 20:57:52 >>> '$dice' command called
+2020-04-23 20:57:53 >>> Command Succesfull, The 420 sided die Landed On a **216**
+2020-04-23 20:57:54 >>> '$dice' command called
+2020-04-23 20:57:54 >>> Command Succesfull, The 420 sided die Landed On a **387**
+2020-04-23 20:58:03 >>> '$dice' command called
+2020-04-23 20:58:04 >>> Command Succesfull, The 420 sided die Landed On a **177**
+2020-04-23 20:58:06 >>> '$dice' command called
+2020-04-23 20:58:06 >>> Command Succesfull, The 420 sided die Landed On a **69**
+2020-04-23 21:25:07 >>> We have logged in as RedBot#1433, setup complete
+2020-04-23 21:35:37 >>> GSheets Token expired. Last login at 1587674040.5800202
+2020-04-23 22:29:55 >>> '$honstatus' command called
+2020-04-23 22:29:58 >>> Collected Cell Values
+2020-04-23 22:29:58 >>> Command Succesfull
+2020-04-23 23:32:02 >>> GSheets Token expired. Last login at 1587677737.888542
+2020-04-23 23:54:38 >>> '$honstatus' command called
+2020-04-23 23:55:01 >>> '$honstatus' command called
+2020-04-23 23:55:03 >>> Command failed, couldnt find user
+2020-04-23 23:55:31 >>> '$honstatus' command called
+2020-04-23 23:55:32 >>> Command failed, couldnt find user
+2020-04-23 23:56:50 >>> '$honstatus' command called
+2020-04-23 23:56:51 >>> Command failed, couldnt find user
+2020-04-23 23:57:30 >>> '$help' command called
+2020-04-23 23:57:31 >>> Command Succesfull
+2020-04-23 23:57:34 >>> '$honregister' command called
+2020-04-23 23:57:35 >>> Command Succesfull
+2020-04-23 23:57:56 >>> '$honstatus' command called
+2020-04-23 23:57:58 >>> Collected Cell Values
+2020-04-23 23:57:58 >>> Command Succesfull
+2020-04-24 00:32:09 >>> GSheets Token expired. Last login at 1587684722.9401312
+2020-04-24 00:45:25 >>> We have logged in as RedBot#1433, setup complete
+2020-04-24 01:57:04 >>> GSheets Token expired. Last login at 1587688329.152073
+2020-04-24 02:12:34 >>> We have logged in as RedBot#1433, setup complete
+2020-04-24 03:00:39 >>> GSheets Token expired. Last login at 1587693424.7842007
+2020-04-24 04:30:39 >>> GSheets Token expired. Last login at 1587697239.5256338
+2020-04-24 05:42:23 >>> We have logged in as RedBot#1433, setup complete
+2020-04-24 07:03:05 >>> GSheets Token expired. Last login at 1587702640.0445046
+2020-04-24 08:04:29 >>> We have logged in as RedBot#1433, setup complete
+2020-04-24 11:12:56 >>> We have logged in as RedBot#1433, setup complete
+2020-04-24 11:49:39 >>> We have logged in as RedBot#1433, setup complete
+2020-04-24 12:04:37 >>> GSheets Token expired. Last login at 1587711785.6424813
+2020-04-24 12:33:10 >>> We have logged in as RedBot#1433, setup complete
+2020-04-24 13:06:45 >>> GSheets Token expired. Last login at 1587729877.9348443
+2020-04-24 14:07:09 >>> GSheets Token expired. Last login at 1587733605.6742692
+2020-04-24 14:07:29 >>> We have logged in as RedBot#1433, setup complete
+2020-04-24 14:47:16 >>> We have logged in as RedBot#1433, setup complete
+2020-04-24 15:16:04 >>> GSheets Token expired. Last login at 1587737229.8360069
+2020-04-24 16:16:32 >>> GSheets Token expired. Last login at 1587741364.749255
+2020-04-24 16:58:02 >>> We have logged in as RedBot#1433, setup complete
+2020-04-24 17:25:24 >>> GSheets Token expired. Last login at 1587744992.7449288
+2020-04-24 18:28:16 >>> GSheets Token expired. Last login at 1587749124.333287
+2020-04-24 19:32:28 >>> GSheets Token expired. Last login at 1587752896.747309
+2020-04-24 19:32:57 >>> '$honregister' command called
+2020-04-24 19:33:00 >>> Command Succesfull
+2020-04-24 19:50:31 >>> '$honregister' command called
+2020-04-24 19:50:33 >>> Command Succesfull
+2020-04-24 20:32:29 >>> GSheets Token expired. Last login at 1587756748.9237387
+2020-04-24 21:38:09 >>> We have logged in as RedBot#1433, setup complete
+2020-04-24 21:48:41 >>> GSheets Token expired. Last login at 1587760349.8370976
+2020-04-24 22:53:23 >>> GSheets Token expired. Last login at 1587764921.835843
+2020-04-24 23:54:38 >>> GSheets Token expired. Last login at 1587768803.6590624
+2020-04-25 00:18:19 >>> '$honstatus' command called
+2020-04-25 00:18:22 >>> Collected Cell Values
+2020-04-25 00:18:22 >>> Command Succesfull
+2020-04-25 00:58:07 >>> GSheets Token expired. Last login at 1587772478.1753592
+2020-04-25 01:07:42 >>> '$honupdate' command called
+2020-04-25 01:07:45 >>> Command Succesfull
+2020-04-25 01:19:46 >>> We have logged in as RedBot#1433, setup complete
+2020-04-25 02:17:34 >>> We have logged in as RedBot#1433, setup complete
+2020-04-25 02:27:29 >>> GSheets Token expired. Last login at 1587776287.387405
+2020-04-25 03:22:48 >>> We have logged in as RedBot#1433, setup complete
+2020-04-25 04:05:54 >>> GSheets Token expired. Last login at 1587781649.6056058
+2020-04-25 05:15:10 >>> GSheets Token expired. Last login at 1587787554.1779966
+2020-04-25 06:32:57 >>> GSheets Token expired. Last login at 1587791711.0146763
+2020-04-25 06:39:48 >>> We have logged in as RedBot#1433, setup complete
+2020-04-25 07:42:50 >>> We have logged in as RedBot#1433, setup complete
+2020-04-25 07:43:28 >>> GSheets Token expired. Last login at 1587796377.8980577
+2020-04-25 09:05:31 >>> We have logged in as RedBot#1433, setup complete
+2020-04-25 12:37:15 >>> We have logged in as RedBot#1433, setup complete
+2020-04-25 15:11:15 >>> We have logged in as RedBot#1433, setup complete
+2020-04-25 18:43:13 >>> We have logged in as RedBot#1433, setup complete
+2020-04-25 19:23:25 >>> GSheets Token expired. Last login at 1587800608.557292
+2020-04-25 20:02:34 >>> '$honstatus' command called
+2020-04-25 20:24:04 >>> GSheets Token expired. Last login at 1587842605.758123
+2020-04-25 20:24:18 >>> '$honstatus' command called
+2020-04-25 20:24:21 >>> Collected Cell Values
+2020-04-25 20:24:21 >>> Command Succesfull
+2020-04-25 21:05:13 >>> We have logged in as RedBot#1433, setup complete
+2020-04-25 21:28:20 >>> GSheets Token expired. Last login at 1587846244.8291407
+2020-04-25 23:25:50 >>> GSheets Token expired. Last login at 1587850100.164905
+2020-04-26 00:10:21 >>> We have logged in as RedBot#1433, setup complete
+2020-04-26 01:12:54 >>> GSheets Token expired. Last login at 1587857150.6914792
+2020-04-26 02:20:47 >>> We have logged in as RedBot#1433, setup complete
+2020-04-26 02:24:39 >>> GSheets Token expired. Last login at 1587863574.5885677
+2020-04-26 03:06:46 >>> '$poll' command called
+2020-04-26 03:06:48 >>> Command Succesfull
+2020-04-26 03:32:24 >>> GSheets Token expired. Last login at 1587867879.7349823
+2020-04-26 04:03:42 >>> '$honstatus' command called
+2020-04-26 04:05:48 >>> '$honstatus' command called
+2020-04-26 04:05:51 >>> Collected Cell Values
+2020-04-26 04:05:51 >>> Command Succesfull
+2020-04-26 04:09:00 >>> '$honregister' command called
+2020-04-26 04:09:01 >>> Command Succesfull
+2020-04-26 04:33:57 >>> GSheets Token expired. Last login at 1587871944.6158426
+2020-04-26 05:35:51 >>> GSheets Token expired. Last login at 1587875637.4621506
+2020-04-26 06:07:44 >>> We have logged in as RedBot#1433, setup complete
+2020-04-26 06:36:47 >>> GSheets Token expired. Last login at 1587879351.9539742
+2020-04-26 07:22:07 >>> '$honregister' command called
+2020-04-26 07:22:10 >>> Command Succesfull
+2020-04-26 07:26:51 >>> '$honregister' command called
+2020-04-26 07:26:53 >>> Command Succesfull
+2020-04-26 07:31:42 >>> We have logged in as RedBot#1433, setup complete
+2020-04-26 08:13:21 >>> GSheets Token expired. Last login at 1587883007.4767475
+2020-04-26 08:55:53 >>> We have logged in as RedBot#1433, setup complete
+2020-04-26 09:08:20 >>> '$honregister' command called
+2020-04-26 09:08:23 >>> Command Succesfull
+2020-04-26 10:40:33 >>> GSheets Token expired. Last login at 1587888801.4104328
+2020-04-26 12:04:21 >>> We have logged in as RedBot#1433, setup complete
+2020-04-26 12:06:21 >>> GSheets Token expired. Last login at 1587897633.315867
+2020-04-26 13:12:46 >>> GSheets Token expired. Last login at 1587902782.0144198
+2020-04-26 14:13:02 >>> GSheets Token expired. Last login at 1587906767.024808
+2020-04-26 14:17:09 >>> We have logged in as RedBot#1433, setup complete
+2020-04-26 14:56:49 >>> We have logged in as RedBot#1433, setup complete
+2020-04-26 15:19:35 >>> We have logged in as RedBot#1433, setup complete
+2020-04-26 15:24:38 >>> GSheets Token expired. Last login at 1587910382.183084
+2020-04-26 16:24:56 >>> GSheets Token expired. Last login at 1587914678.1226883
+2020-04-26 17:48:37 >>> GSheets Token expired. Last login at 1587918296.775086
+2020-04-26 18:46:57 >>> We have logged in as RedBot#1433, setup complete
+2020-04-26 18:48:37 >>> GSheets Token expired. Last login at 1587923317.0935593
+2020-04-26 19:44:29 >>> We have logged in as RedBot#1433, setup complete
+2020-04-26 19:48:53 >>> GSheets Token expired. Last login at 1587926917.1714838
+2020-04-26 20:50:29 >>> GSheets Token expired. Last login at 1587930533.1124399
+2020-04-26 21:16:18 >>> We have logged in as RedBot#1433, setup complete
+2020-04-26 21:50:44 >>> GSheets Token expired. Last login at 1587934229.402192
+2020-04-26 23:17:36 >>> GSheets Token expired. Last login at 1587937844.3018878
+2020-04-26 23:18:22 >>> We have logged in as RedBot#1433, setup complete
+2020-04-27 00:13:02 >>> We have logged in as RedBot#1433, setup complete
+2020-04-27 00:21:03 >>> GSheets Token expired. Last login at 1587943056.8932679
+2020-04-27 01:21:01 >>> We have logged in as RedBot#1433, setup complete
+2020-04-27 02:10:55 >>> GSheets Token expired. Last login at 1587946863.0556889
+2020-04-27 03:11:10 >>> GSheets Token expired. Last login at 1587953456.0083005
+2020-04-27 04:11:32 >>> GSheets Token expired. Last login at 1587957070.2262888
+2020-04-27 04:40:39 >>> We have logged in as RedBot#1433, setup complete
+2020-04-27 05:17:57 >>> GSheets Token expired. Last login at 1587960692.931746
+2020-04-27 06:31:06 >>> GSheets Token expired. Last login at 1587964677.1976817
+2020-04-27 08:14:31 >>> We have logged in as RedBot#1433, setup complete
+2020-04-27 11:36:46 >>> We have logged in as RedBot#1433, setup complete
+2020-04-27 12:04:35 >>> We have logged in as RedBot#1433, setup complete
+2020-04-27 12:21:02 >>> GSheets Token expired. Last login at 1587969066.8410127
+2020-04-27 14:19:41 >>> GSheets Token expired. Last login at 1587990062.7191844
+2020-04-27 15:25:36 >>> We have logged in as RedBot#1433, setup complete
+2020-04-27 15:49:07 >>> We have logged in as RedBot#1433, setup complete
+2020-04-27 17:32:24 >>> We have logged in as RedBot#1433, setup complete
+2020-04-27 17:51:40 >>> GSheets Token expired. Last login at 1587997182.0245361
+2020-04-27 18:51:42 >>> GSheets Token expired. Last login at 1588009900.4081237
+2020-04-27 19:05:20 >>> We have logged in as RedBot#1433, setup complete
+2020-04-27 19:52:00 >>> GSheets Token expired. Last login at 1588013502.8406346
+2020-04-27 20:11:04 >>> We have logged in as RedBot#1433, setup complete
+2020-04-27 20:43:07 >>> We have logged in as RedBot#1433, setup complete
+2020-04-27 20:52:04 >>> GSheets Token expired. Last login at 1588017120.7729676
+2020-04-27 21:52:25 >>> We have logged in as RedBot#1433, setup complete
+2020-04-27 21:54:48 >>> GSheets Token expired. Last login at 1588020724.4226756
+2020-04-27 22:55:13 >>> GSheets Token expired. Last login at 1588024488.1524768
+2020-04-27 23:55:17 >>> GSheets Token expired. Last login at 1588028113.8581462
+2020-04-28 00:49:32 >>> We have logged in as RedBot#1433, setup complete
+2020-04-28 00:56:14 >>> GSheets Token expired. Last login at 1588031717.4377577
+2020-04-28 01:23:05 >>> We have logged in as RedBot#1433, setup complete
+2020-04-28 01:56:38 >>> GSheets Token expired. Last login at 1588035374.815509
+2020-04-28 01:59:06 >>> '$poll' command called
+2020-04-28 02:56:51 >>> GSheets Token expired. Last login at 1588038998.36184
+2020-04-28 04:00:49 >>> GSheets Token expired. Last login at 1588042611.7678664
+2020-04-28 04:18:21 >>> We have logged in as RedBot#1433, setup complete
+2020-04-28 05:00:48 >>> GSheets Token expired. Last login at 1588046449.0754418
+2020-04-28 06:01:35 >>> GSheets Token expired. Last login at 1588050048.2281532
+2020-04-28 07:02:01 >>> GSheets Token expired. Last login at 1588053695.3623586
+2020-04-28 07:16:49 >>> We have logged in as RedBot#1433, setup complete
+2020-04-28 08:03:44 >>> GSheets Token expired. Last login at 1588057321.9762845
+2020-04-28 09:06:10 >>> GSheets Token expired. Last login at 1588061024.9601448
+2020-04-28 10:06:45 >>> GSheets Token expired. Last login at 1588064771.0699506
+2020-04-28 11:06:45 >>> GSheets Token expired. Last login at 1588068405.7577367
+2020-04-28 11:07:29 >>> We have logged in as RedBot#1433, setup complete
+2020-04-28 12:07:00 >>> GSheets Token expired. Last login at 1588072005.8380382
+2020-04-28 12:45:06 >>> We have logged in as RedBot#1433, setup complete
+2020-04-28 13:08:44 >>> GSheets Token expired. Last login at 1588075620.5747917
+2020-04-28 13:59:59 >>> We have logged in as RedBot#1433, setup complete
+2020-04-28 14:10:54 >>> GSheets Token expired. Last login at 1588079324.6235826
+2020-04-28 15:12:19 >>> We have logged in as RedBot#1433, setup complete
+2020-04-28 15:12:28 >>> GSheets Token expired. Last login at 1588083054.1194074
+2020-04-28 16:12:27 >>> GSheets Token expired. Last login at 1588086748.7557936
+2020-04-28 16:43:40 >>> '$poll' command called
+2020-04-28 17:12:32 >>> GSheets Token expired. Last login at 1588090348.0278602
+2020-04-28 18:12:37 >>> GSheets Token expired. Last login at 1588093952.7646158
+2020-04-28 18:38:52 >>> We have logged in as RedBot#1433, setup complete
+2020-04-28 19:12:54 >>> GSheets Token expired. Last login at 1588097557.7655718
+2020-04-28 20:14:16 >>> GSheets Token expired. Last login at 1588101174.0542219
+2020-04-28 20:51:51 >>> We have logged in as RedBot#1433, setup complete
+2020-04-28 21:16:46 >>> GSheets Token expired. Last login at 1588104856.6503568
+2020-04-28 22:20:40 >>> GSheets Token expired. Last login at 1588108606.7934089
+2020-04-28 23:21:26 >>> GSheets Token expired. Last login at 1588112440.367061
+2020-04-28 23:45:09 >>> We have logged in as RedBot#1433, setup complete
+2020-04-29 00:23:03 >>> GSheets Token expired. Last login at 1588116086.403404
+2020-04-29 01:01:05 >>> We have logged in as RedBot#1433, setup complete
+2020-04-29 01:24:29 >>> GSheets Token expired. Last login at 1588119783.6249344
+2020-04-29 01:32:09 >>> We have logged in as RedBot#1433, setup complete
+2020-04-29 01:55:48 >>> We have logged in as RedBot#1433, setup complete
+2020-04-29 02:24:48 >>> GSheets Token expired. Last login at 1588123469.4552438
+2020-04-29 03:26:52 >>> GSheets Token expired. Last login at 1588127088.5743058
+2020-04-29 04:27:02 >>> GSheets Token expired. Last login at 1588130812.2572117
+2020-04-29 05:24:36 >>> We have logged in as RedBot#1433, setup complete
+2020-04-29 05:29:47 >>> GSheets Token expired. Last login at 1588134422.9823139
+2020-04-29 07:00:35 >>> GSheets Token expired. Last login at 1588138187.4196818
+2020-04-29 08:03:04 >>> GSheets Token expired. Last login at 1588143635.6852221
+2020-04-29 09:04:06 >>> GSheets Token expired. Last login at 1588147385.0475183
+2020-04-29 10:04:10 >>> GSheets Token expired. Last login at 1588151046.2830417
+2020-04-29 11:07:21 >>> GSheets Token expired. Last login at 1588154650.3595111
+2020-04-29 12:08:06 >>> GSheets Token expired. Last login at 1588158441.0814397
+2020-04-29 13:09:08 >>> GSheets Token expired. Last login at 1588162086.1235385
+2020-04-29 14:09:25 >>> GSheets Token expired. Last login at 1588165748.6469126
+2020-04-29 14:16:50 >>> We have logged in as RedBot#1433, setup complete
+2020-04-29 15:12:27 >>> GSheets Token expired. Last login at 1588169365.536092
+2020-04-29 15:20:17 >>> We have logged in as RedBot#1433, setup complete
+2020-04-29 16:12:34 >>> GSheets Token expired. Last login at 1588173147.907034
+2020-04-29 17:12:43 >>> GSheets Token expired. Last login at 1588176754.634401
+2020-04-29 18:13:15 >>> GSheets Token expired. Last login at 1588180363.8774953
+2020-04-29 19:13:23 >>> GSheets Token expired. Last login at 1588183995.548863
+2020-04-29 20:13:28 >>> GSheets Token expired. Last login at 1588187603.3895693
+2020-04-29 21:13:40 >>> GSheets Token expired. Last login at 1588191209.0400217
+2020-04-29 21:27:08 >>> We have logged in as RedBot#1433, setup complete
+2020-04-29 22:14:54 >>> GSheets Token expired. Last login at 1588194820.6340244
+2020-04-29 23:16:14 >>> We have logged in as RedBot#1433, setup complete
+2020-04-29 23:19:13 >>> GSheets Token expired. Last login at 1588198494.6140766
+2020-04-30 00:20:38 >>> GSheets Token expired. Last login at 1588202353.8816457
+2020-04-30 01:21:19 >>> GSheets Token expired. Last login at 1588206038.1200802
+2020-04-30 01:22:13 >>> GSheets Token expired. Last login at 1588206038.1200802
+2020-04-30 01:25:53 >>> GSheets Token expired. Last login at 1588206038.1200802
+2020-04-30 01:31:02 >>> GSheets Token expired. Last login at 1588206038.1200802
+2020-04-30 02:34:15 >>> GSheets Token expired. Last login at 1588210262.1004252
+2020-04-30 03:10:14 >>> We have logged in as RedBot#1433, setup complete
+2020-04-30 03:29:56 >>> We have logged in as RedBot#1433, setup complete
+2020-04-30 03:34:19 >>> GSheets Token expired. Last login at 1588214056.0016494
+2020-04-30 04:36:17 >>> GSheets Token expired. Last login at 1588217659.330305
+2020-04-30 05:36:28 >>> GSheets Token expired. Last login at 1588221377.6222541
+2020-04-30 06:39:30 >>> GSheets Token expired. Last login at 1588224988.3872824
+2020-04-30 07:10:52 >>> We have logged in as RedBot#1433, setup complete
+2020-04-30 07:40:51 >>> GSheets Token expired. Last login at 1588228770.2234237
+2020-04-30 08:05:24 >>> We have logged in as RedBot#1433, setup complete
+2020-04-30 08:42:27 >>> GSheets Token expired. Last login at 1588232451.2353337
+2020-04-30 09:32:33 >>> We have logged in as RedBot#1433, setup complete
+2020-04-30 09:45:52 >>> GSheets Token expired. Last login at 1588236147.8284514
+2020-04-30 11:32:52 >>> GSheets Token expired. Last login at 1588239952.6633582
+2020-04-30 11:52:22 >>> We have logged in as RedBot#1433, setup complete
+2020-04-30 12:33:16 >>> GSheets Token expired. Last login at 1588246372.4587996
+2020-04-30 13:47:31 >>> GSheets Token expired. Last login at 1588249996.1209316
