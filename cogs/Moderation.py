@@ -6,7 +6,8 @@ from discord.ext import commands
 
 class Moderation(commands.Cog):
   
-  reportChannelID = 618169388327108639
+  	reportChannelID = 618169388327108639
+	muteRoleID = 618186776821104642
 	
 	def __init__(self, client):
 		self.client = client
@@ -44,6 +45,24 @@ class Moderation(commands.Cog):
 
 	    await reportChnl.send(embed=embed)
 
+		self.logs.log("Command Succesfull")
+		
+# COMMAND: $mute <member mention>
+		
+	@commands.command()
+	async def mute(self, context):
+		
+		self.logs.log("'$mute' command called")
+		
+		toMute = context.message.mentions[0]
+		reasonStr = "Muted by" + context.message.author.display_name
+		
+		muteRole = context.message.guild.get_role(muteRoleID)
+		
+		if muteRole == None:
+			self.logs.log("ERROR: Mute role not found, check ID is correct")
+		else:
+			await toMute.add_roles(muteRole, reason=reasonStr)
 			self.logs.log("Command Succesfull")
 		
 def setup(client):
