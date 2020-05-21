@@ -4,7 +4,7 @@
 client_secret.json
 credentials.json
 nohup.out
-
+token.txt
 
 # ---- PYTHON IGNORE ----
 
