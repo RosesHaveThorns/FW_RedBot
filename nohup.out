@@ -30266,3 +30266,54 @@ INFO:oauth2client.client:access_token is expired. Now: 2020-04-30 13:47:31.44527
 INFO:oauth2client.client:access_token is expired. Now: 2020-04-30 13:47:31.445591, token_expiry: 2020-04-30 13:33:15.113371
 INFO:oauth2client.client:access_token is expired. Now: 2020-04-30 13:47:31.445672, token_expiry: 2020-04-30 13:33:15.113371
 INFO:oauth2client.client:Refreshing access_token
+INFO:oauth2client.client:access_token is expired. Now: 2020-04-30 15:13:16.391581, token_expiry: 2020-04-30 14:47:30.483719
+INFO:oauth2client.client:access_token is expired. Now: 2020-04-30 15:13:16.391900, token_expiry: 2020-04-30 14:47:30.483719
+INFO:oauth2client.client:access_token is expired. Now: 2020-04-30 15:13:16.391953, token_expiry: 2020-04-30 14:47:30.483719
+INFO:oauth2client.client:Refreshing access_token
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 4 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+
+2020-04-30 01:22:13 >>> GSheets Token expired. Last login at 1588206038.1200802
+
+2020-04-30 01:25:53 >>> GSheets Token expired. Last login at 1588206038.1200802
+
+2020-04-30 01:31:02 >>> GSheets Token expired. Last login at 1588206038.1200802
+
+2020-04-30 02:34:15 >>> GSheets Token expired. Last login at 1588210262.1004252
+
+2020-04-30 03:10:14 >>> We have logged in as RedBot#1433, setup complete
+
+2020-04-30 03:29:56 >>> We have logged in as RedBot#1433, setup complete
+
+2020-04-30 03:34:19 >>> GSheets Token expired. Last login at 1588214056.0016494
+
+2020-04-30 04:36:17 >>> GSheets Token expired. Last login at 1588217659.330305
+
+2020-04-30 05:36:28 >>> GSheets Token expired. Last login at 1588221377.6222541
+
+2020-04-30 06:39:30 >>> GSheets Token expired. Last login at 1588224988.3872824
+
+2020-04-30 07:10:52 >>> We have logged in as RedBot#1433, setup complete
+
+2020-04-30 07:40:51 >>> GSheets Token expired. Last login at 1588228770.2234237
+
+2020-04-30 08:05:24 >>> We have logged in as RedBot#1433, setup complete
+
+2020-04-30 08:42:27 >>> GSheets Token expired. Last login at 1588232451.2353337
+
+2020-04-30 09:32:33 >>> We have logged in as RedBot#1433, setup complete
+
+2020-04-30 09:45:52 >>> GSheets Token expired. Last login at 1588236147.8284514
+
+2020-04-30 11:32:52 >>> GSheets Token expired. Last login at 1588239952.6633582
+
+2020-04-30 11:52:22 >>> We have logged in as RedBot#1433, setup complete
+
+2020-04-30 12:33:16 >>> GSheets Token expired. Last login at 1588246372.4587996
+
+2020-04-30 13:47:31 >>> GSheets Token expired. Last login at 1588249996.1209316
+
+2020-04-30 15:13:16 >>> GSheets Token expired. Last login at 1588254451.4854145
+

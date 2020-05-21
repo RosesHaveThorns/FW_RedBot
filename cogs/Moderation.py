@@ -3,12 +3,15 @@
 import datetime
 import discord
 from discord.ext import commands
+from discord.ext.commands import has_role
 
 class Moderation(commands.Cog):
-  
+
 	reportChannelID = 618183760482926620
 	modRoleName = "scarlet"	#Lower Case
 	modRole = ""
+
+	muteRoleID = 618186776821104642
 
 	def __init__(self, client):
 		self.client = client
@@ -54,6 +57,27 @@ class Moderation(commands.Cog):
 		await reportChnl.send(embed=embed)
 		
 		self.logs.log("Command Succesfull")
+
+# COMMAND: $ilence <member mention>
+
+	@has_role("Scarlet")		
+	@commands.command()
+	async def ilence(self, context):
+		
+		self.logs.log("'$ilence' command called")
+		
+		toMute = context.message.mentions[0]
+		reasonStr = "Muted by" + context.message.author.display_name
+		
+		muteRole = context.message.guild.get_role(self.muteRoleID)
+		
+		if muteRole == None:
+			self.logs.log("ERROR: Mute role not found, check ID is correct")
+		else:
+			await toMute.add_roles(muteRole, reason=reasonStr)
+			self.logs.log("Command Succesfull")
+			await context.message.channel.send("```**MUTED** {} indefinetly!```".format(toMute.display_name))
+
 		
 def setup(client):
 	client.add_cog(Moderation(client))

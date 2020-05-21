@@ -7,10 +7,20 @@ import gspread
 from discord.ext import commands
 from oauth2client.service_account import ServiceAccountCredentials
 
-TOKEN = 'NTY2MTY1MTg4OTg3MDYwMjQ0.XWrzjg.JWNxuIptZOGxWf7dpPhziOQ9-8Y'
-
 logs = logger()
 logs.log("---------------------- Starting Up ----------------------")
+
+# Load Discord Bot Token
+try:
+	tokenf = open("token.txt","r")
+	TOKEN = tokenf.read()
+	tokenf.close()
+
+except Exception as error:
+	logs.log("ERROR: Couldn't load Token [{}]".format(error))
+
+logs.log("Loaded Discord Token: [{}]".format(TOKEN))
+
 
 # Gspread variables
 scope = ['https://spreadsheets.google.com/feeds',
@@ -56,7 +66,7 @@ logging.basicConfig(level=logging.INFO)
 client = commands.Bot(command_prefix = '$')
 lastLoginTime = time.time()
 
-# Discord functions:
+# Discord functions
 
 @client.event
 async def on_ready():
@@ -103,4 +113,3 @@ if __name__ == '__main__':
 			logs.log("ERROR: Could not pass the extension {} the logger. [{}]".format(extension, error))
 			
 	client.run(TOKEN)
-	
