@@ -1,12 +1,7 @@
-# ---- REDBOT IGNORE ----
-
 *.LOG
-client_secret.json
-credentials.json
-nohup.out
-
-
-# ---- PYTHON IGNORE ----
+*.json
+*.out
+*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

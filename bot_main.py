@@ -66,7 +66,7 @@ logging.basicConfig(level=logging.INFO)
 client = commands.Bot(command_prefix = '$')
 lastLoginTime = time.time()
 
-# Discord functions:
+# Discord functions
 
 @client.event
 async def on_ready():
