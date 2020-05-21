@@ -111,4 +111,4 @@ class Comradeship(commands.Cog):
 			self.logs.log("Command Succesfull")
 
 def setup(client):
-	client.add_cog(Comradeship(client))
+	#client.add_cog(Comradeship(client))

@@ -30,10 +30,10 @@ class ComradeshipMKII(commands.Cog):
 			str_list = list(filter(None, self.cmrd_data.col_values(1)))
 			return str(len(str_list)+1)
 
-# COMMAND: $comradeshiplevel2 <username>
+# COMMAND: $comradeshiplevel <username>
 
 	@commands.command()
-	async def comradeshiplevel2(self, context):
+	async def comradeshiplevel(self, context):
 		self.logger.log("'$comradeshiplevel2' command called")
 
 		msg = context.message
@@ -90,7 +90,7 @@ class ComradeshipMKII(commands.Cog):
 		dateObj = datetime.datetime.now()
 		dateStr = dateObj.strftime("%a %d %b - %H:%M ") + "GMT"
 
-		msg1 = "Username: " + context.message.author.name + "| Nickname: " + context.message.author.display_name
+		msg1 = context.message.author.name + " | Nickname: " + context.message.author.display_name
 		msg2temp = context.message.content.split(" ")
 
 		msg2 = ""
@@ -104,15 +104,16 @@ class ComradeshipMKII(commands.Cog):
 		embed.add_field(name="Request: ", value=msg2, inline=False)
 
 		await requestChnl.send(embed=embed)
+		await context.message.channel.send('Sent the request, a Premier will get you updated ASAP')
 
-		self.logs.log("Command Succesfull")
+		self.logger.log("Command Succesfull")
 
 
-# COMMAND: $comradeshipevent2 <username> <description> <evidence>
+# COMMAND: $comradeshipevent <username> <description> <evidence>
 
 	@has_role("Premier")
 	@commands.command()
-	async def comradeshipevent2(self, context):
+	async def comradeshipevent(self, context):
 		self.logger.log("'$comradeshipevent2' command called")
 
 		msg = context.message
@@ -185,11 +186,11 @@ class ComradeshipMKII(commands.Cog):
 
 				self.logger.log("Command Succesfull")
 
-# COMMAND: $comradeshipevent2 <username> <description> <evidence>
+# COMMAND: $comradeshipevent <username> <description> <evidence>
 
 	@has_role("Premier")
 	@commands.command()
-	async def comradeshipregister2(self, context):
+	async def comradeshipregister(self, context):
 		self.logger.log("'$comradeshipregister2' command called")
 
 		msg = context.message
