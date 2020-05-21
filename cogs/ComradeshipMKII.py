@@ -3,6 +3,7 @@
 import datetime
 import discord
 from discord.ext import commands
+from discord.ext.commands import has_role
 
 class ComradeshipMKII(commands.Cog):
 
