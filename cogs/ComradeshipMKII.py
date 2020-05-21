@@ -6,6 +6,8 @@ from discord.ext import commands
 
 class ComradeshipMKII(commands.Cog):
 
+	requestChnlID = 586886560360693761
+
 	def __init__(self, client):
 		self.client = client
 # TODO: MAKE POINTS BASED ON DATA IN SHEET RATHER THAN SEMI-HARDCODED
@@ -77,8 +79,37 @@ class ComradeshipMKII(commands.Cog):
 			await msg_out.edit(content='', embed=embed)
 			self.logger.log("Command Succesfull")
 
+# COMMAND: $comradeship_request <description>
+
+	@commands.command()
+	async def comradeship_request(self, context):
+
+		self.logger.log("'$comradeship_request' command called")
+
+		dateObj = datetime.datetime.now()
+		dateStr = dateObj.strftime("%a %d %b - %H:%M ") + "GMT"
+
+		msg1 = "Username: " + context.message.author.name + "| Nickname: " + context.message.author.display_name
+		msg2temp = context.message.content.split(" ")
+
+		msg2 = ""
+		for i in range(1, len(msg2temp)):
+			msg2 = msg2 + " " + msg2temp[i]
+
+		requestChnl = self.client.get_channel(self.requestChnlID)
+
+		embed = discord.Embed(title="**COMRADESHIP REQUEST**: " + dateStr, color=0x4287f5)
+		embed.add_field(name="User: ", value=msg1, inline=False)
+		embed.add_field(name="Request: ", value=msg2, inline=False)
+
+		await requestChnl.send(embed=embed)
+
+		self.logs.log("Command Succesfull")
+
+
 # COMMAND: $comradeshipevent2 <username> <description> <evidence>
 
+	@has_role("Premier")
 	@commands.command()
 	async def comradeshipevent2(self, context):
 		self.logger.log("'$comradeshipevent2' command called")
@@ -155,6 +186,7 @@ class ComradeshipMKII(commands.Cog):
 
 # COMMAND: $comradeshipevent2 <username> <description> <evidence>
 
+	@has_role("Premier")
 	@commands.command()
 	async def comradeshipregister2(self, context):
 		self.logger.log("'$comradeshipregister2' command called")

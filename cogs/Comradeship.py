@@ -5,17 +5,17 @@ import discord
 from discord.ext import commands
 
 class Comradeship(commands.Cog):
-	
+
 	def __init__(self, client):
 		self.client = client
-	
+
 	def set_refs(self, logger, sheets):
 		self.logs = logger
 		self.gsheet = sheets
-		
+
 		self.comradeSheetMain = self.gsheet.open("DSRR Comradeship System").worksheet("BOT_DATA")
 		self.comradeEventsSheetMain = self.gsheet.open("DSRR Comradeship System").worksheet("Event Submissions")
-		
+
 # COMMAND: $comradeshiplevel <username>
 
 	@commands.command()
@@ -23,7 +23,7 @@ class Comradeship(commands.Cog):
 		self.logs.log("'$comradeshiplevel' command called")
 
 		msg = context.message
-		
+
 		msgOut = await msg.channel.send('Give me a second, looking you up...')
 
 		# Get Username
@@ -45,7 +45,7 @@ class Comradeship(commands.Cog):
 		if not found:
 			await msgOut.edit(content="**I couldn't find you!**\nYou're not on my spreadsheet (if this is the case, you need to register for comradeship) or you got your username wrong!")
 			self.logs.log("Command failed, couldnt find username")
-			
+
 		if found:
 			## GET CELL VALUES (indices start at 1)
 			audPoints = self.comradeSheetMain.cell(userRow+1, 2).value
@@ -63,7 +63,7 @@ class Comradeship(commands.Cog):
 
 			## SEND MESSAGE
 			await msgOut.edit(content='', embed=embed)
-			self.logs.log("Command Succesfull")    
+			self.logs.log("Command Succesfull")
 
 # COMMAND: $comradeshipevent <username> <description> <evidence>
 
@@ -72,7 +72,7 @@ class Comradeship(commands.Cog):
 		self.logs.log("'$comradeshipevent' command called")
 
 		msg = context.message
-		
+
 		msgOut = await msg.channel.send('Give me a second, sending the data by Crimson Courier...')
 
 		# Get Command Data
@@ -97,7 +97,7 @@ class Comradeship(commands.Cog):
 		if not found:
 			await msgOut.edit(content="**I couldn't find a gap in the spreadsheet**, please let the Minister for Personell know about this!")
 			self.logs.log("Command failed, couldnt find username")
-		
+
 		if found:
 			## SET CELLS
 			self.comradeEventsSheetMain.update_cell(userRow+1, 8, username)
@@ -107,8 +107,8 @@ class Comradeship(commands.Cog):
 
 			## SEND CONFIRMATION
 			await msgOut.edit(content="**Your submission has been recieved**, the Minsister for Personell will update you points soon!")
-		
+
 			self.logs.log("Command Succesfull")
-			
+
 def setup(client):
 	client.add_cog(Comradeship(client))
