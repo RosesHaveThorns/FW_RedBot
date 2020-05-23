@@ -131,7 +131,7 @@ class ComradeshipMKII(commands.Cog):
 		usernames = self.cmrd_data.col_values(1)
 
 		for i in range(len(usernames)):
-			if usernames[i] == username:
+			if usernames[i].lower().strip() == username:
 				user_row = i+1
 				user_found = True
 				break
