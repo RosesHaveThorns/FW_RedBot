@@ -26,7 +26,7 @@ logs.log("Loaded Discord Token: [{}]".format(TOKEN))
 scope = ['https://spreadsheets.google.com/feeds',
 			 'https://www.googleapis.com/auth/drive']
 
-credentials = ServiceAccountCredentials.from_json_keyfile_name('client_secret3.json', scope)
+credentials = ServiceAccountCredentials.from_json_keyfile_name('client_secret.json', scope)
 
 # global variables
 gsheet = ""
